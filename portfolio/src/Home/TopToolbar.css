@@ -1,0 +1,22 @@
+body {
+
+}
+
+#top-toolbar {
+    display: flex;
+    background-color: black;
+    height: 1.9rem;
+    width: 100%;
+    gap: 8px;
+}
+
+#top-toolbar a {
+    display: flex;
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: white;
+    font-weight: 300;
+    text-decoration-line: none;
+    font-size: 0.75rem;
+    margin-left: 1rem;
+    margin-top: 10px;
+}

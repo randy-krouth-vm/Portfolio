@@ -1,0 +1,74 @@
+body {
+
+}
+
+#section-1 {
+    display: flex;
+    background-color: black;
+    height: 47vw;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+}
+
+#section-1 h1 {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-left: 2rem;
+}
+
+#section-1 h2 {
+    display: flex;
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 2.3rem;
+    font-weight: 400;
+    margin-left: 2rem;
+    margin-top: 9rem;
+}
+
+#section-1 h3 {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-left: 2rem;
+    margin-top: -1.8rem;
+    text-align: start;
+}
+
+#section-1 h4 {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.7rem;
+    font-weight: 400;
+    margin-left: 2.2rem;
+    margin-top: 8rem;
+    margin-bottom: 0;
+}
+
+    #section-1 button {
+        margin-left: 1rem;
+        background-color: transparent;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        background: none;
+        margin-top: -3vw;
+        width: 13vw;
+        height: 2vw;
+    }
+
+#section-1 img{
+    width: 95vw;
+    margin-left: 1rem;
+}
+
+#section-1 #self-portrait{
+    position:absolute;
+    width: 40vw;
+    margin-left: 63vw;
+    margin-top: -5vw;
+}

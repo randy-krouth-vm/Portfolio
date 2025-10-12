@@ -1,0 +1,46 @@
+body {
+
+}
+
+#bottom-section {
+    display: flex;
+    background-color: black;
+    height: 70vw;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+}
+
+#bottom-section p {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 2vw;
+}
+
+#bottom-section #image-line{
+    width: 90vw;
+}
+
+#bottom-section #image-eleven{
+    width: 5vw;
+    margin-left: 90vw;
+    margin-top: -3.6vw;
+}
+
+#bottom-section #image-ten{
+    width: 95vw;
+    margin-left: 2.5vw;
+}
+
+    #bottom-section button {
+        background-color: transparent;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        background: none;
+        width: 4rem;
+        height: 4rem;
+        margin-left: 90vw;
+        margin-top: -4rem;
+    }
