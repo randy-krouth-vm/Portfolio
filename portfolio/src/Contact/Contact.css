@@ -71,7 +71,7 @@ html, body {
     width: 40vw;
     height: 7vw;
     margin-left: 59vw;
-    margin-top: -5vw;
+    margin-top: -6vw;
 }
 
 #contact-icons {
@@ -81,35 +81,52 @@ html, body {
     gap: 1vw; 
     padding-right: 2vw; /* space from right edge */
     margin-top: 1rem; /* distance from "View Resume" link */
-    margin-top: -6vw;
+    margin-top: -7vw;
 }
 
-    #contact-icons #contact-upwork {
-        width: 14vw;
-        height: 5vw;
-        background-color: transparent;
-        border: none;
-        outline: none;
-        box-shadow: none;
-        background: none;
+#contact-icons #contact-upwork {
+    width: 14vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+#contact-icons #contact-credly {
+    width: 8vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+#contact-icons #contact-linkedin {
+    width: 12vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+@media (max-width: 900px) {
+
+    #contact-main h1 {
+        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+        color: ghostwhite;
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin-left: 2rem;
     }
 
-    #contact-icons #contact-credly {
-        width: 8vw;
-        height: 5vw;
-        background-color: transparent;
-        border: none;
-        outline: none;
-        box-shadow: none;
-        background: none;
+    #contact-main img {
+        width: 95vw;
+        margin-left: 6vw;
+        margin-top: 3rem;
     }
-
-    #contact-icons #contact-linkedin {
-        width: 12vw;
-        height: 5vw;
-        background-color: transparent;
-        border: none;
-        outline: none;
-        box-shadow: none;
-        background: none;
-    }
+}

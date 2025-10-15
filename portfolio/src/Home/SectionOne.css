@@ -49,17 +49,17 @@ body {
     margin-bottom: 0;
 }
 
-    #section-1 button {
-        margin-left: 1rem;
-        background-color: transparent;
-        border: none;
-        outline: none;
-        box-shadow: none;
-        background: none;
-        margin-top: -3vw;
-        width: 13vw;
-        height: 2vw;
-    }
+#section-1 button {
+    margin-left: 1rem;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+    margin-top: -3vw;
+    width: 13vw;
+    height: 2vw;
+}
 
 #section-1 img{
     width: 95vw;
@@ -69,6 +69,6 @@ body {
 #section-1 #self-portrait{
     position:absolute;
     width: 40vw;
-    margin-left: 63vw;
+    margin-left: 59vw;
     margin-top: -5vw;
 }

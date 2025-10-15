@@ -16,12 +16,13 @@ html, body {
 #skills-main-section {
     display: flex;
     background-color: black;
-    height: 26rem;
+    height: 100%;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     margin: 0;
     padding-top: 3rem;
+    z-index: 1;
 }
 
 #skills-main-section p {
@@ -39,23 +40,74 @@ html, body {
     justify-content: start;
     align-items: start;
     flex-direction: column;
-    margin-top: -2rem;
+    margin-top: -3.8vw;
 }
 
 #skills-advance p {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
     color: ghostwhite;
-    font-size: 1.4rem;
+    font-size: 2.3rem;
     font-weight: 400;
-    margin-left: 2.5rem;
+    margin-left: 3rem;
 }
+
+#skills-advance a {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: #03FF68;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-left: 3.3rem;
+    margin-top: -1.9rem;
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+
+    #skills-main-section {
+        display: flex;
+        background-color: black;
+        height: 26rem;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: 0;
+        padding-top: 0rem;
+    }
+
+    #skills-main-section p {
+        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+        color: ghostwhite;
+        font-size: 1.2rem;
+        font-weight: 400;
+        margin-top: 0.2rem;
+    }
+
+    #skills-advance {
+        display: flex;
+        background-color: black;
+        height: 20vh;
+        justify-content: start;
+        align-items: start;
+        flex-direction: column;
+        margin-top: -3.8vw;
+    }
+
+
+    #skills-advance p {
+        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+        color: ghostwhite;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-left: 2rem;
+    }
 
     #skills-advance a {
         font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
         color: #03FF68;
-        font-size: 0.9rem;
+        font-size: 0.6rem;
         font-weight: 400;
-        margin-left: 2.5rem;
-        margin-top: -1.4rem;
+        margin-left: 2.2rem;
+        margin-top: -1.3rem;
         text-decoration: none;
     }
+}

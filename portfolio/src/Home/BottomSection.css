@@ -44,3 +44,42 @@ body {
         margin-left: 90vw;
         margin-top: -4rem;
     }
+
+@media (max-width: 900px) {
+
+    #bottom-section {
+        display: flex;
+        background-color: black;
+        height: 70vw;
+        justify-content: start;
+        align-items: center;
+        flex-direction: column;
+        margin: 0;
+        padding-bottom: 2vw;
+        margin-top: -2vw;
+    }
+
+    #bottom-section #image-eleven {
+        width: 15vw;
+        margin-left: 83vw;
+        margin-top: -81.5vw;
+    }
+
+    #bottom-section button {
+        background-color: transparent;
+        border: none;
+        outline: none;
+        box-shadow: none;
+        background: none;
+        width: 4rem;
+        height: 6rem;
+        margin-left: 83vw;
+        margin-top: -7rem;
+    }
+
+    #bottom-section p {
+        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+        color: ghostwhite;
+        font-size: 1rem;
+    }
+}

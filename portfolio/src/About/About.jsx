@@ -6,7 +6,7 @@ function About() {
     return (
       <>
       <div id="main-about-section">
-            <img src={aboutImage}/>
+            <img src={aboutImage} alt="About Image"/>
       </div>
       </>
   );

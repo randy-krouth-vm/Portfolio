@@ -7,7 +7,7 @@ import TopToolbar from './Home/TopToolbar.jsx'
 
 export default function AppRouter() {
     return (
-        <Router>
+        <Router basename={import.meta.env.BASE_URL}>
             <TopToolbar />
             <Routes>
                 <Route path="/" element={<App />} />   

@@ -11,9 +11,9 @@ function SectionOne() {
   return (
       <div id="section-1">
 
-          <img src={selfPortrait} id="self-portrait" />
-          <img src={headerImage} />
-          <button aria-aria-placeholder="" onClick={() => navigate("/skills")} />
+          <img src={selfPortrait} id="self-portrait" alt="Self Portrait Image"/>
+          <img src={headerImage} alt="Header Image"/>
+          <button onClick={() => navigate("/skills")} />
       </div>
   );
 }

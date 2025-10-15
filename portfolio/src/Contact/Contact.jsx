@@ -4,14 +4,16 @@ import personalImage from '../assets/Image_12.png'
 import navTools from '../assets/Image_13.png'
 
 function Contact() {
+
     return (
     <>
         <div id="contact-main">
             <h1>Contact: </h1>
 
-            <img src={personalImage} />
+            <img src={personalImage} alt="Personal Image" />
 
-            <a href="/Randall_Krouth_Resume.pdf" target="_blank" rel="noopener noreferrer">View Resume PDF</a>
+                <a href={`${import.meta.env.BASE_URL}Randall_Krouth_Resume.pdf`} target="_blank" rel="noopener noreferrer">View Resume PDF</a>
+
             </div>
 
             <img src={navTools} id="contact-nav-tools" />

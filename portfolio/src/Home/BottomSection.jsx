@@ -13,9 +13,9 @@ function BottomSection() {
           <p>DevOps practices including CI/CD, Application Security, and Agile <br />
               Methodologies using Microservices & Serverless</p>
 
-          <img src={imageTen} id="image-ten" />
-          <img src={imageEleven} id="image-eleven" />
-          <button aria-placeholder="" onClick={() =>
+          <img src={imageTen} id="image-ten" alt="Software Engineer Presentation Image"/>
+          <img src={imageEleven} id="image-eleven" alt="Navigation Arrow Image" />
+          <button onClick={() =>
               window.scrollTo({
                   top: 0,
                   behavior: "smooth",
