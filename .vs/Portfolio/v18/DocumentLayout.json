@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\approuter.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\approuter.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\toptoolbar\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\toptoolbar\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\previews\\previews.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\previews\\previews.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\toptoolbar\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\toptoolbar\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\about\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -126,8 +126,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -143,20 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Previews.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Previews\\Previews.jsx",
               "RelativeDocumentMoniker": "portfolio\\src\\Previews\\Previews.jsx",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Previews\\Previews.jsx",
               "RelativeToolTip": "portfolio\\src\\Previews\\Previews.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-12-30T02:48:04.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Designs.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Designs\\Designs.css",
               "RelativeDocumentMoniker": "portfolio\\src\\Designs\\Designs.css",
@@ -164,12 +168,11 @@
               "RelativeToolTip": "portfolio\\src\\Designs\\Designs.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-30T01:24:13.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T01:24:13.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Designs.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Designs\\Designs.jsx",
               "RelativeDocumentMoniker": "portfolio\\src\\Designs\\Designs.jsx",
@@ -177,8 +180,7 @@
               "RelativeToolTip": "portfolio\\src\\Designs\\Designs.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-30T01:24:05.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T01:24:05.21Z"
             },
             {
               "$type": "Document",
@@ -190,8 +192,7 @@
               "RelativeToolTip": "portfolio\\src\\About\\About.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-30T01:22:45.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T01:22:45.756Z"
             },
             {
               "$type": "Document",
@@ -203,8 +204,7 @@
               "RelativeToolTip": "portfolio\\src\\About\\About.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-30T01:22:42.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T01:22:42.436Z"
             },
             {
               "$type": "Document",
@@ -216,12 +216,7 @@
               "RelativeToolTip": "portfolio\\src\\Contact\\Contact.css",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-30T01:22:27.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-12-30T01:22:27.772Z"
             },
             {
               "$type": "Document",
@@ -233,38 +228,37 @@
               "RelativeToolTip": "portfolio\\src\\Skills\\Skills.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-29T23:59:07.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:59:07.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "TopToolbar.css",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.css",
-              "RelativeDocumentMoniker": "portfolio\\src\\Home\\TopToolbar.css",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.css",
-              "RelativeToolTip": "portfolio\\src\\Home\\TopToolbar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\Portfolio\\src\\TopToolbar\\TopToolbar.css",
+              "RelativeDocumentMoniker": "Portfolio\\src\\TopToolbar\\TopToolbar.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\Portfolio\\src\\TopToolbar\\TopToolbar.css",
+              "RelativeToolTip": "Portfolio\\src\\TopToolbar\\TopToolbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-12-29T12:00:02.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppRouter.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\AppRouter.jsx",
               "RelativeDocumentMoniker": "portfolio\\src\\AppRouter.jsx",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\AppRouter.jsx",
               "RelativeToolTip": "portfolio\\src\\AppRouter.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-12-30T01:16:31.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\main.jsx",
               "RelativeDocumentMoniker": "portfolio\\src\\main.jsx",
@@ -272,18 +266,17 @@
               "RelativeToolTip": "portfolio\\src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-30T01:16:33.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T01:16:33.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TopToolbar.jsx",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.jsx",
-              "RelativeDocumentMoniker": "portfolio\\src\\Home\\TopToolbar.jsx",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.jsx",
-              "RelativeToolTip": "portfolio\\src\\Home\\TopToolbar.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\Portfolio\\src\\TopToolbar\\TopToolbar.jsx",
+              "RelativeDocumentMoniker": "Portfolio\\src\\TopToolbar\\TopToolbar.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\Portfolio\\src\\TopToolbar\\TopToolbar.jsx",
+              "RelativeToolTip": "Portfolio\\src\\TopToolbar\\TopToolbar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-12-29T12:00:05.089Z",
               "EditorCaption": ""
@@ -298,8 +291,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\SectionThree.css",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-29T23:29:47.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:29:47.801Z"
             },
             {
               "$type": "Document",
@@ -311,8 +303,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-29T23:29:29.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:29:29.624Z"
             },
             {
               "$type": "Document",
@@ -324,8 +315,7 @@
               "RelativeToolTip": "portfolio\\src\\Skills\\Skills.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-29T23:59:10.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:59:10.928Z"
             },
             {
               "$type": "Document",
@@ -337,8 +327,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\SectionTwo.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-29T23:31:37.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:31:37.161Z"
             },
             {
               "$type": "Document",
@@ -350,8 +339,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\App.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-12-29T11:59:50.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T11:59:50.743Z"
             },
             {
               "$type": "Document",
@@ -363,8 +351,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\BottomSection.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-30T00:36:24.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T00:36:24.459Z"
             },
             {
               "$type": "Document",
@@ -376,8 +363,7 @@
               "RelativeToolTip": "portfolio\\src\\Home\\SectionOne.css",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-12-29T23:26:40.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-29T23:26:40.149Z"
             },
             {
               "$type": "Document",
