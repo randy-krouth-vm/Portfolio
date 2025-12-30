@@ -6,15 +6,15 @@ function Previews() {
     return (
     <>
         <div className="video-wrapper">
-            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_1.png`}>
+            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_1_Poster.png`}>
                 <source src={`${import.meta.env.BASE_URL}Recording_1.mp4`} type="video/mp4"/>
             </video>
 
-            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_2.png`}>
+            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_2_Poster.png`}>
                 <source src={`${import.meta.env.BASE_URL}Recording_2.mp4`} type="video/mp4"/>
             </video>
 
-            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_3.png`}>
+            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Recording_3_Poster.png`}>
                 <source src={`${import.meta.env.BASE_URL}Recording_3.mp4`} type="video/mp4"/>
             </video>
 
