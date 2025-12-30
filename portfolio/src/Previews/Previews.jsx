@@ -33,6 +33,10 @@ function Previews() {
             <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}BurpSuite_Example_Poster.png`}>
                 <source src={`${import.meta.env.BASE_URL}BurpSuite_Example.mp4`} type="video/mp4" />
             </video>
+
+            <video controls preload="none" playsInline poster={`${import.meta.env.BASE_URL}Mock_Example_Poster.png`}>
+                <source src={`${import.meta.env.BASE_URL}Mock_Example.mp4`} type="video/mp4" />
+            </video>
         </div>
     </>
     );
