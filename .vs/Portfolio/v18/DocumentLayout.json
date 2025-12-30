@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\skills\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\skills\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\sectionthree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\sectionthree.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\bottomsection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\bottomsection.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\bottomsection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\bottomsection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\sectiontwo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\sectiontwo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\sectionone.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\sectionone.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\skills\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\skills\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\toptoolbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\sectiontwo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\sectiontwo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\toptoolbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\portfolio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A7F2B245-9F28-400E-977E-6B6A96CD5C0B}|Portfolio\\portfolio.esproj|solutionrelative:portfolio\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BottomSection.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\BottomSection.jsx",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\BottomSection.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\BottomSection.jsx",
+              "RelativeToolTip": "portfolio\\src\\Home\\BottomSection.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-30T00:38:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BottomSection.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\BottomSection.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\BottomSection.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\BottomSection.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\BottomSection.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-30T00:36:24.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Skills\\Skills.jsx",
+              "RelativeDocumentMoniker": "portfolio\\src\\Skills\\Skills.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Skills\\Skills.jsx",
+              "RelativeToolTip": "portfolio\\src\\Skills\\Skills.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-29T23:59:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skills.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Skills\\Skills.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Skills\\Skills.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Skills\\Skills.css",
+              "RelativeToolTip": "portfolio\\src\\Skills\\Skills.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:59:07.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SectionTwo.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionTwo.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\SectionTwo.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionTwo.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\SectionTwo.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:31:37.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SectionTwo.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionTwo.jsx",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\SectionTwo.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionTwo.jsx",
+              "RelativeToolTip": "portfolio\\src\\Home\\SectionTwo.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-29T23:31:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SectionThree.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionThree.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\SectionThree.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionThree.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\SectionThree.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:29:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\App.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\App.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\App.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:29:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\index.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\index.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\index.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:29:27.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SectionOne.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionOne.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\SectionOne.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\SectionOne.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\SectionOne.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T23:26:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TopToolbar.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.jsx",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\TopToolbar.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.jsx",
+              "RelativeToolTip": "portfolio\\src\\Home\\TopToolbar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-29T12:00:05.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TopToolbar.css",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.css",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\TopToolbar.css",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\TopToolbar.css",
+              "RelativeToolTip": "portfolio\\src\\Home\\TopToolbar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-29T12:00:02.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\App.jsx",
+              "RelativeDocumentMoniker": "portfolio\\src\\Home\\App.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\src\\Home\\App.jsx",
+              "RelativeToolTip": "portfolio\\src\\Home\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-12-29T11:59:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\package.json",
+              "RelativeDocumentMoniker": "portfolio\\package.json",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\package.json",
+              "RelativeToolTip": "portfolio\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T07:54:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\.gitignore",
+              "RelativeDocumentMoniker": "portfolio\\.gitignore",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\.gitignore",
+              "RelativeToolTip": "portfolio\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-09T07:54:31.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "portfolio\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\CHANGELOG.md",
+              "RelativeToolTip": "portfolio\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-09T07:54:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\eslint.config.js",
+              "RelativeDocumentMoniker": "portfolio\\eslint.config.js",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\eslint.config.js",
+              "RelativeToolTip": "portfolio\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-09T07:54:27.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\README.md",
+              "RelativeDocumentMoniker": "portfolio\\README.md",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\README.md",
+              "RelativeToolTip": "portfolio\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-09T07:54:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\vite.config.js",
+              "RelativeDocumentMoniker": "portfolio\\vite.config.js",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\vite.config.js",
+              "RelativeToolTip": "portfolio\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-09T07:54:15.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\index.html",
+              "RelativeDocumentMoniker": "portfolio\\index.html",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\portfolio\\index.html",
+              "RelativeToolTip": "portfolio\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-09T07:53:47.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -47,17 +47,19 @@ html, body {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
     color: ghostwhite;
     font-size: 2.3rem;
-    font-weight: 400;
+    font-weight: 375;
     margin-left: 3rem;
+    margin-top: 1.0rem;
+    z-index: 1;
 }
 
 #skills-advance a {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
     color: #03FF68;
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 0.97rem;
+    font-weight: 329;
     margin-left: 3.3rem;
-    margin-top: -1.9rem;
+    margin-top: -2.0rem;
     text-decoration: none;
 }
 

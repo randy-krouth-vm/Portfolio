@@ -27,7 +27,7 @@ html, body {
 #contact-main h1 {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
     color: ghostwhite;
-    font-size: 1.8rem;
+    font-size: 1.75rem;
     font-weight: 400;
     margin-left: 2rem;
 }
@@ -62,7 +62,7 @@ html, body {
 }
 
 #contact-main img {
-    width: 75vw;
+    width: 69vw;
     margin-left: 15vw;
     margin-top: 2rem;
 }
@@ -71,7 +71,7 @@ html, body {
     width: 40vw;
     height: 7vw;
     margin-left: 59vw;
-    margin-top: -6vw;
+    margin-top: -5.5vw;
 }
 
 #contact-icons {

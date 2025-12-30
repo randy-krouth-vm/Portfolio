@@ -29,7 +29,7 @@ body {
     width: 70vw;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 800px) {
     #section-three {
         display: flex;
         background-color: black;
@@ -38,89 +38,28 @@ body {
         align-items: center;
         flex-direction: column;
         margin: 0;
-        padding-top: 2.7vw;
-        padding-bottom: 265px;
+        margin-top: 2vw;
+        padding-bottom: 10.5rem;
+        padding-top: 2rem;
     }
 
-    #section-three #image-one {
-        width: 90vw;
-    }
+        #section-three #image-one {
+            width: 90vw;
+        }
 
-    #section-three p {
-        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-        color: ghostwhite;
-        font-size: 1rem;
-        padding-bottom: 2.35rem;
-        padding-top: 2.35rem;
-        padding-left: 5vw;
-        padding-right: 4vw;
-    }
+        #section-three p {
+            font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+            color: ghostwhite;
+            font-size: 2.3vw;
+            padding-bottom: 1.8rem;
+            padding-top: 1.3rem;
+            padding-left: 5vw;
+            padding-right: 4vw;
+            transform: translate(0, 0.15rem);
+            z-index: 1;
+        }
 
-    #section-three img {
-        width: 90vw;
-    }
-}
-
-@media (min-width: 400px) and (max-width: 650px) {
-    #section-three {
-        display: flex;
-        background-color: black;
-        height: 125vw;
-        justify-content: start;
-        align-items: center;
-        flex-direction: column;
-        margin: 0;
-        padding-top: 2.7vw;
-        padding-bottom: 230px;
-    }
-
-    #section-three #image-one {
-        width: 90vw;
-    }
-
-    #section-three p {
-        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-        color: ghostwhite;
-        font-size: 1rem;
-        padding-bottom: 2.35rem;
-        padding-top: 2.35rem;
-        padding-left: 5vw;
-        padding-right: 4vw;
-    }
-
-    #section-three img {
-        width: 85vw;
-    }
-}
-
-@media (min-width: 650px) and (max-width: 900px) {
-    #section-three {
-        display: flex;
-        background-color: black;
-        height: 125vw;
-        justify-content: start;
-        align-items: center;
-        flex-direction: column;
-        margin: 0;
-        padding-top: 2.7vw;
-        padding-bottom: 92px;
-    }
-
-    #section-three #image-one {
-        width: 90vw;
-    }
-
-    #section-three p {
-        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-        color: ghostwhite;
-        font-size: 1rem;
-        padding-bottom: 2.35rem;
-        padding-top: 2.35rem;
-        padding-left: 5vw;
-        padding-right: 4vw;
-    }
-
-    #section-three img {
-        width: 70vw;
-    }
+        #section-three img {
+            width: 90vw;
+        }
 }
