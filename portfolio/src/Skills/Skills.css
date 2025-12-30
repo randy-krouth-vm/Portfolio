@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     width: 100%;
     font-size: calc(1vw + 0.5rem);
-    background-color: black
+    background-color: black;
 }
 
 #root {

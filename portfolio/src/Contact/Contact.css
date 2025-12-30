@@ -79,8 +79,8 @@ html, body {
     justify-content: flex-end; 
     align-items: end;
     gap: 1vw; 
-    padding-right: 2vw; /* space from right edge */
-    margin-top: 1rem; /* distance from "View Resume" link */
+    padding-right: 2vw; 
+    margin-top: 1rem;
     margin-top: -7vw;
 }
 

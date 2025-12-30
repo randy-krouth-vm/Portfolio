@@ -4,16 +4,19 @@ import Skills from "./Skills/Skills.jsx";
 import About from "./About/About.jsx";
 import Contact from "./Contact/Contact.jsx";
 import TopToolbar from './Home/TopToolbar.jsx'
+import Designs from "./Designs/Designs.jsx";
+import Previews from "./Previews/Previews.jsx";
 
 export default function AppRouter() {
     return (
         <Router basename={import.meta.env.BASE_URL}>
             <TopToolbar />
             <Routes>
-                <Route path="/" element={<App />} />   
-                <Route path="/skills" element={<Skills />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/contact" element={<Contact />} />
+                <Route path="/" element={<App/>}/>   
+                <Route path="/skills" element={<Skills/>}/>
+                <Route path="/about" element={<About/>}/>
+                <Route path="/previews" element={<Previews/>}/>
+                <Route path="/contact" element={<Contact/>}/>
             </Routes>
         </Router>
     );
