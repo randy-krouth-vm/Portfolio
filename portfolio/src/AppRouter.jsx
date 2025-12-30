@@ -15,6 +15,7 @@ export default function AppRouter() {
                 <Route path="/" element={<App/>}/>   
                 <Route path="/skills" element={<Skills/>}/>
                 <Route path="/about" element={<About/>}/>
+                <Route path="/designs" element={<Designs/>}/>
                 <Route path="/previews" element={<Previews/>}/>
                 <Route path="/contact" element={<Contact/>}/>
             </Routes>

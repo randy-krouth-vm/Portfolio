@@ -1,4 +1,4 @@
-﻿#section-two {
+﻿#image-grid {
     display: flex;
     flex-wrap: wrap;
     background-color: black;
@@ -11,11 +11,11 @@
     padding: 0;
 }
 
-#section-two-left,
-#section-two-right {
+#image-grid-left,
+#image-grid-right {
     display: flex;
     flex-direction: column;
-    align-items: flex-start; 
+    align-items: flex-start;
     justify-content: flex-start;
     flex: 1 1 420px;
     max-width: 35vw;
@@ -24,7 +24,7 @@
     gap: 3vw;
 }
 
-#section-two img {
+#image-grid img {
     width: 100%;
     border-radius: 0;
     object-fit: cover;
@@ -34,45 +34,42 @@
     padding-top: 2vw;
 }
 
-#section-two img:hover {
+#image-grid img:hover {
     transform: scale(1.03);
 }
 
-#section-two p {
+#image-grid p {
     font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
     color: ghostwhite;
     font-size: 1.2rem;
-    text-align: center; 
-    width: 100%; 
+    text-align: center;
+    width: 100%;
     margin-top: 0.3rem;
     line-height: 1.2;
     font-weight: 400;
-    padding: 0;     
+    padding: 0;
 }
 
 /* Mobile layout fix */
 @media (max-width: 800px) {
-    #section-two {
-
-
+    #image-grid {
     }
 
-    #section-two img:hover {
-
+    #image-grid img:hover {
     }
 
-    #section-two-left,
-    #section-two-right {
+    #image-grid-left,
+    #image-grid-right {
         max-width: 75%;
-        align-items: center; 
+        align-items: center;
     }
 
-    #section-two img {
+    #image-grid img {
         width: 100%;
-        padding-top: 2rem; 
+        padding-top: 2rem;
     }
 
-    #section-two p {
+    #image-grid p {
         font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
         color: ghostwhite;
         font-size: 2.3vw;

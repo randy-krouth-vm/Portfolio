@@ -1,7 +1,7 @@
 import './App.css'
 
 import SectionOne from './SectionOne.jsx'
-import SectionTwo from './SectionTwo.jsx'
+import ImageGrid from '../ImageGrid/ImageGrid.jsx'
 import SectionThree from './SectionThree.jsx'
 import BottomSection from './BottomSection'
 
@@ -21,12 +21,12 @@ function App() {
   return (
     <>
           <SectionOne />
-          <SectionTwo imageOne={imageOne} imageOneText="Responsive Application Design"
+          <ImageGrid imageOne={imageOne} imageOneText="Responsive Application Design"
               imageTwo={imageTwo} imageTwoText="Live Trading & API Integrations" />
-          <SectionTwo imageOne={imageThree} imageOneText="Scalable Compute Applications"
+          <ImageGrid imageOne={imageThree} imageOneText="Scalable Compute Applications"
               imageTwo={imageFour} imageTwoText="Interactive Game Design" />
           <SectionThree />
-          <SectionTwo imageOne={imageEight} imageOneText="Identity Access Management (IAM)"
+          <ImageGrid imageOne={imageEight} imageOneText="Identity Access Management (IAM)"
               imageTwo={imageNine} imageTwoText="Back-End Development" />
           <BottomSection />
     </>

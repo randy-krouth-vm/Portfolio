@@ -8,6 +8,7 @@ function TopToolbar() {
           <Link to="/">Home</Link>
           <Link to="/skills">Skills</Link>
           <Link to="/about">About</Link>
+          <Link to="/designs">Designs</Link>
           <Link to="/previews">Previews</Link>
           <Link to="/contact">Contact</Link>
       </div>

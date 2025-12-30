@@ -1,16 +1,16 @@
-import './SectionTwo.css'
+import './ImageGrid.css'
 
-function SectionTwo({ imageOne, imageOneText,
+function ImageGrid({ imageOne, imageOneText,
                       imageTwo, imageTwoText}) {
     return (
     <>
-        <div id="section-two">
-            <div id="section-two-left">
+        <div id="image-grid">
+            <div id="image-grid-left">
                 <img src={imageOne} id="image-one" alt="Image One Placeholder"/>
                     <p id="image-one-text">{imageOneText}</p>
             </div>
 
-            <div id="section-two-right">
+            <div id="image-grid-right">
                 <img src={imageTwo} id="image-two" alt="Image Two Placeholder"/>
                     <p id="image-two-text">{imageTwoText}</p>
             </div>
@@ -19,4 +19,4 @@ function SectionTwo({ imageOne, imageOneText,
   );
 }
 
-export default SectionTwo;
+export default ImageGrid;
