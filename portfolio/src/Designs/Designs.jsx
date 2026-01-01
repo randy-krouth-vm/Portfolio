@@ -12,10 +12,6 @@ function Designs() {
             <img src="Architectural_Design_2.png" />
             <p>Generic Web Architecture:</p>
             <img src="Architectural_Design_1.png" />
-            <p>Streaming Architecture:</p>
-            <img src="Architectural_Design_4.png" />
-            <p>Custom Design:</p>
-            <img src="Architectural_Design_5.png" />
         </div>
     </>
   );
