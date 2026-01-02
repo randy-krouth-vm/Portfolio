@@ -7,7 +7,7 @@ function Contact() {
         <div id="contact-main">
             <h1>Contact: </h1>
 
-            <img src="/mage_12.png" alt="Personal Image" />
+            <img src="Image_12.png" alt="Personal Image" />
 
                 <a href="Randall_Krouth_Resume.pdf" target="_blank" rel="noopener noreferrer">View Resume PDF</a>
 
