@@ -9,9 +9,9 @@ function Designs() {
             <p>CI/CD:</p>
             <img src="Architectural_Design_3.png"/>
             <p>Event Driven Streaming:</p>
-            <img src="Architectural_Design_2.png" />
+            <img src="Architectural_Design_2.png"/>
             <p>Generic Web Architecture:</p>
-            <img src="Architectural_Design_1.png" />
+            <img src="Architectural_Design_1.png"/>
         </div>
     </>
   );
