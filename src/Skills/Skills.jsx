@@ -16,7 +16,9 @@ function Skills() {
 
         <div id="skills-advance">
                 <p>Explore</p>
-                <Link to="/contact">Learn More &gt;</Link>
+                <Link to="/contact">
+                    <img src="Learn_More.png" className="learn-more"/>
+                </Link>
         </div>
 
     </>
