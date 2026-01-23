@@ -1,0 +1,132 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    font-size: calc(1vw + 0.5rem);
+}
+
+#root {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#contact-main {
+    display: flex;
+    background-color: black;
+    height: 100%;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    margin: 0;
+    padding-top: 0rem;
+    padding-right: 1rem;
+}
+
+#contact-main h1 {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin-left: 2rem;
+}
+
+#contact-main p {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin-left: 32rem;
+    margin-top: 0;
+}
+
+#contact-main #footer-text {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: ghostwhite;
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-left: 3rem;
+    margin-top: -5rem;
+}
+
+#contact-main a {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+    color: #03FF68;
+    font-size: 1.2rem;
+    font-weight: 375;
+    margin-left: 1rem;
+    margin-top: 7rem;
+    text-decoration: none;
+    z-index: 1;
+}
+
+#contact-main img {
+    width: 69vw;
+    margin-left: 15vw;
+    margin-top: 2rem;
+}
+
+#contact-nav-tools {
+    width: 40vw;
+    height: 7vw;
+    margin-left: 59vw;
+    margin-top: -5.5vw;
+}
+
+#contact-icons {
+    display: flex;
+    justify-content: flex-end; 
+    align-items: end;
+    gap: 1vw; 
+    padding-right: 2vw; 
+    margin-top: 1rem;
+    margin-top: -7vw;
+}
+
+#contact-icons #contact-upwork {
+    width: 14vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+#contact-icons #contact-credly {
+    width: 8vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+#contact-icons #contact-linkedin {
+    width: 12vw;
+    height: 5vw;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background: none;
+}
+
+@media (max-width: 900px) {
+
+    #contact-main h1 {
+        font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+        color: ghostwhite;
+        font-size: 1.5rem;
+        font-weight: 400;
+        margin-left: 2rem;
+    }
+
+    #contact-main img {
+        width: 95vw;
+        margin-left: 6vw;
+        margin-top: 3rem;
+    }
+}
