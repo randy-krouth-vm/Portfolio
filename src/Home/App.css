@@ -13,6 +13,8 @@ html, body {
 }
 
 #root {
+    transform-origin: top center;
+    scale: 1;
     text-align: center;
     display: flex;
     flex-direction: column;
