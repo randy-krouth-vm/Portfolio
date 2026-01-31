@@ -11,7 +11,9 @@ function Designs() {
             <p>Event Driven Streaming:</p>
             <img src="Architectural_Design_2.png"/>
             <p>Generic Web Architecture:</p>
-            <img src="Architectural_Design_1.png"/>
+            <img src="Architectural_Design_1.png" />
+            <p>Industry Standard:</p>
+            <img src="Industry_Standard_Design.png" />
         </div>
     </>
   );

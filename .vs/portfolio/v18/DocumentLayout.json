@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\wheelscale.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\wheelscale.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -42,24 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Designs.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
+              "RelativeDocumentMoniker": "src\\Designs\\Designs.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
+              "RelativeToolTip": "src\\Designs\\Designs.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-31T00:43:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "WheelScale.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\WheelScale.jsx",
               "RelativeDocumentMoniker": "src\\WheelScale.jsx",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\WheelScale.jsx",
               "RelativeToolTip": "src\\WheelScale.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-01-30T22:37:22.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppRouter.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\AppRouter.jsx",
               "RelativeDocumentMoniker": "src\\AppRouter.jsx",
@@ -67,12 +88,11 @@
               "RelativeToolTip": "src\\AppRouter.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-01-30T22:12:40.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:12:40.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SectionOne.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\SectionOne.css",
               "RelativeDocumentMoniker": "src\\Home\\SectionOne.css",
@@ -80,12 +100,11 @@
               "RelativeToolTip": "src\\Home\\SectionOne.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-30T22:09:29.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:09:29.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SectionOne.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\SectionOne.jsx",
               "RelativeDocumentMoniker": "src\\Home\\SectionOne.jsx",
@@ -93,12 +112,11 @@
               "RelativeToolTip": "src\\Home\\SectionOne.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-01-30T22:09:27.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:09:27.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -106,16 +124,11 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-01-30T22:06:23.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2026-01-30T22:06:23.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.jsx",
               "RelativeDocumentMoniker": "src\\Home\\App.jsx",
@@ -123,12 +136,11 @@
               "RelativeToolTip": "src\\Home\\App.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-01-30T22:06:36.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:06:36.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.css",
               "RelativeDocumentMoniker": "src\\Home\\App.css",
@@ -136,12 +148,11 @@
               "RelativeToolTip": "src\\Home\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-30T22:06:34.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:06:34.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
@@ -149,8 +160,7 @@
               "RelativeToolTip": "src\\main.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-01-30T22:06:28.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:06:28.697Z"
             }
           ]
         }
