@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Previews.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Previews\\Previews.jsx",
+              "RelativeDocumentMoniker": "src\\Previews\\Previews.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Previews\\Previews.jsx",
+              "RelativeToolTip": "src\\Previews\\Previews.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-01-31T01:00:53.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Designs.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
               "RelativeDocumentMoniker": "src\\Designs\\Designs.jsx",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WheelScale.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\WheelScale.jsx",
               "RelativeDocumentMoniker": "src\\WheelScale.jsx",
@@ -75,12 +92,11 @@
               "RelativeToolTip": "src\\WheelScale.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-01-30T22:37:22.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T22:37:22.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppRouter.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\AppRouter.jsx",
               "RelativeDocumentMoniker": "src\\AppRouter.jsx",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SectionOne.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\SectionOne.css",
               "RelativeDocumentMoniker": "src\\Home\\SectionOne.css",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SectionOne.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\SectionOne.jsx",
               "RelativeDocumentMoniker": "src\\Home\\SectionOne.jsx",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.jsx",
               "RelativeDocumentMoniker": "src\\Home\\App.jsx",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.css",
               "RelativeDocumentMoniker": "src\\Home\\App.css",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\main.jsx",
               "RelativeDocumentMoniker": "src\\main.jsx",
