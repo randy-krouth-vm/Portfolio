@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\designs\\designs.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\designs\\designs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\previews\\previews.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,16 +62,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Designs.css",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.css",
               "RelativeDocumentMoniker": "src\\Designs\\Designs.css",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.css",
               "RelativeToolTip": "src\\Designs\\Designs.css",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-17T04:36:13.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T04:36:13.119Z"
             },
             {
               "$type": "Document",
@@ -87,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Designs.jsx",
               "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
               "RelativeDocumentMoniker": "src\\Designs\\Designs.jsx",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
               "RelativeToolTip": "src\\Designs\\Designs.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-01-31T00:43:32.662Z",
               "EditorCaption": ""
