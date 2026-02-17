@@ -14,6 +14,8 @@ function Designs() {
             <img src="Industry_Standard_Managed_Design.png" />
             <p>Managed Industry Standard Design with Security:</p>
             <img src="Industry_Standard_Managed_Design_With_Security.png" />
+            <p>Serverless Industry Standard Design with Security:</p>
+            <img src="Industry_Standard_Serverless_Design_With_Security.png" />
             <p>Encryption Guidelines:</p>
             <img src="Architectural_Design_4.png" />
             <p>Security Baseline:</p>
