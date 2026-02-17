@@ -33,6 +33,11 @@ p {
     width: 80vw;
 }
 
+#cicd
+{
+    scale: 0.95;
+}
+
 @media (max-width: 800px) {
     p {
         color: white;

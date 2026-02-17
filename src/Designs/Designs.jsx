@@ -7,11 +7,13 @@ function Designs() {
     <>
         <div className="designs-container">
             <p>CI/CD:</p>
-            <img src="Architectural_Design_3.png"/>
-            <p>Generic Web Architecture:</p>
-            <img src="Architectural_Design_1.png" />
-            <p>Industry Standard:</p>
+            <img src="Architectural_Design_3.png" id="cicd"/>
+            <p>Self-Managed Industry Standard Design:</p>
             <img src="Industry_Standard_Design.png" />
+            <p>Managed Industry Standard Design:</p>
+            <img src="Industry_Standard_Managed_Design.png" />
+            <p>Managed Industry Standard Design With Security:</p>
+            <img src="Industry_Standard_Managed_Design_With_Security.png" />
             <p>Encryption Guidelines:</p>
             <img src="Architectural_Design_4.png" />
             <p>Security Baseline:</p>
