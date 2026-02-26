@@ -54,12 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "src\\Designs\\Designs.jsx",
               "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Designs\\Designs.jsx",
               "RelativeToolTip": "src\\Designs\\Designs.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-01-31T00:43:32.662Z",
               "EditorCaption": ""
