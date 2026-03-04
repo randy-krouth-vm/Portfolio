@@ -126,9 +126,10 @@ html, body {
     #contact-main h1 {
         font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
         color: ghostwhite;
-        font-size: 1.3rem;
+        font-size: 1.1rem;
         font-weight: 400;
-        margin-left: 1.5rem;
+        margin-left: 1.3rem;
+        margin-top: 2rem;
     }
 
     #contact-main img {
