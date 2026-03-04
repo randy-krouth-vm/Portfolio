@@ -1,0 +1,1608 @@
+{
+    "generatedAt":  "2026-03-04T08:47:29.9431666Z",
+    "count":  178,
+    "files":  [
+                  {
+                      "name":  "Wireshark_for_Basic_Network_Security_Analysis.jpg",
+                      "relativePath":  "certificates_web/Wireshark_for_Basic_Network_Security_Analysis.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4416569Z",
+                      "modifiedAt":  "2026-03-04T06:44:09.6541836Z"
+                  },
+                  {
+                      "name":  "Whizlabs_Exam_Prep_AZ-305_Microsoft_Azure_Solutions_Architect_Expert.jpeg",
+                      "relativePath":  "certificates_web/Whizlabs_Exam_Prep_AZ-305_Microsoft_Azure_Solutions_Architect_Expert.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4374486Z",
+                      "modifiedAt":  "2026-03-04T07:28:20.7319481Z"
+                  },
+                  {
+                      "name":  "Whizlabs_Azure_Migration,_Business_Continuity_\u0026_Networking_Solutions.jpeg",
+                      "relativePath":  "certificates_web/Whizlabs_Azure_Migration__Business_Continuity___Networking_Solutions.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4341266Z",
+                      "modifiedAt":  "2026-03-04T07:28:51.1335694Z"
+                  },
+                  {
+                      "name":  "Whizlabs_Azure_Identity,_Governance,_and_Monitoring_solutions.jpeg",
+                      "relativePath":  "certificates_web/Whizlabs_Azure_Identity__Governance__and_Monitoring_solutions.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4301184Z",
+                      "modifiedAt":  "2026-03-04T07:22:51.1227941Z"
+                  },
+                  {
+                      "name":  "Whizlabs_Azure_Data_Storage_Solutions.jpeg",
+                      "relativePath":  "certificates_web/Whizlabs_Azure_Data_Storage_Solutions.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4262152Z",
+                      "modifiedAt":  "2026-03-04T07:26:36.0636336Z"
+                  },
+                  {
+                      "name":  "Whizlabs_Azure_Compute_and_Application_Architecture_Solutions.jpeg",
+                      "relativePath":  "certificates_web/Whizlabs_Azure_Compute_and_Application_Architecture_Solutions.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4157546Z",
+                      "modifiedAt":  "2026-03-04T07:26:56.9455468Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Proactive_Computer_Security.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Proactive_Computer_Security.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4107759Z",
+                      "modifiedAt":  "2026-03-04T07:01:17.5274475Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_More_C++_Programming_and_Unreal.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_More_C___Programming_and_Unreal.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4068121Z",
+                      "modifiedAt":  "2026-03-04T07:08:52.4787065Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_More_C#_Programming_and_Unity.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_More_C__Programming_and_Unity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.4027563Z",
+                      "modifiedAt":  "2026-03-04T07:09:14.7315270Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Introduction_to_Cybersecurity_for_Business.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Introduction_to_Cybersecurity_for_Business.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3977484Z",
+                      "modifiedAt":  "2026-03-04T05:53:56.4991057Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Introduction_to_C++_Programming_and_Unreal.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Introduction_to_C___Programming_and_Unreal.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3937513Z",
+                      "modifiedAt":  "2026-03-04T07:02:53.1548631Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Introduction_to_C#_Programming_and_Unity.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Introduction_to_C__Programming_and_Unity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3888318Z",
+                      "modifiedAt":  "2026-03-04T07:03:14.2432616Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Intermediate_Object-Oriented_Programming_for_Unreal_Games.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Intermediate_Object-Oriented_Programming_for_Unreal_Games.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3839126Z",
+                      "modifiedAt":  "2026-03-04T07:16:58.9979535Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Intermediate_Object-Oriented_Programming_for_Unity_Games.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Intermediate_Object-Oriented_Programming_for_Unity_Games.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3799183Z",
+                      "modifiedAt":  "2026-03-04T07:16:12.4687348Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Cyber_Threats_and_Attack_Vectors.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Cyber_Threats_and_Attack_Vectors.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3749205Z",
+                      "modifiedAt":  "2026-03-04T05:52:25.6461662Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Cyber_Security_for_Business.jpg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Cyber_Security_for_Business.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3737710Z",
+                      "modifiedAt":  "2026-03-04T07:00:55.1311495Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_Cyber_Detecting_and_Mitigating_Cyber_Threats_and_Attacks.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_Cyber_Detecting_and_Mitigating_Cyber_Threats_and_Attacks.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3682647Z",
+                      "modifiedAt":  "2026-03-04T06:57:45.1342972Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_C++_Programming_for_Unreal_Game_Development.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_C___Programming_for_Unreal_Game_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3643159Z",
+                      "modifiedAt":  "2026-03-04T07:16:34.0804559Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_C++_Class_Development.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_C___Class_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3605886Z",
+                      "modifiedAt":  "2026-03-04T07:12:32.5911970Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_C#_Programming_for_Unity_Game_Development.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_C__Programming_for_Unity_Game_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3542010Z",
+                      "modifiedAt":  "2026-03-04T07:15:46.5570086Z"
+                  },
+                  {
+                      "name":  "University_of_Colorado_C#_Class_Development.jpeg",
+                      "relativePath":  "certificates_web/University_of_Colorado_C__Class_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3503567Z",
+                      "modifiedAt":  "2026-03-04T07:12:50.7517583Z"
+                  },
+                  {
+                      "name":  "UCDavis_Secure_Coding_Practices.jpeg",
+                      "relativePath":  "certificates_web/UCDavis_Secure_Coding_Practices.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3465315Z",
+                      "modifiedAt":  "2026-03-04T05:47:52.5790433Z"
+                  },
+                  {
+                      "name":  "UCDavis_Principles_of_Secure_Coding.jpeg",
+                      "relativePath":  "certificates_web/UCDavis_Principles_of_Secure_Coding.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3425195Z",
+                      "modifiedAt":  "2026-03-04T06:37:54.5832466Z"
+                  },
+                  {
+                      "name":  "UCDavis_Identifying_Security_Vulnerabilities.jpeg",
+                      "relativePath":  "certificates_web/UCDavis_Identifying_Security_Vulnerabilities.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3384070Z",
+                      "modifiedAt":  "2026-03-04T06:34:02.9448900Z"
+                  },
+                  {
+                      "name":  "UCDavis_Identifying_Security_Vulnerabilites_in_C_\u0026_C++_Programming.jpeg",
+                      "relativePath":  "certificates_web/UCDavis_Identifying_Security_Vulnerabilites_in_C___C___Programming.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3335450Z",
+                      "modifiedAt":  "2026-03-04T06:33:19.5020770Z"
+                  },
+                  {
+                      "name":  "UCDavis_Exploiting_and_Securing_Vulnerabilities_in_Java_Applications.jpeg",
+                      "relativePath":  "certificates_web/UCDavis_Exploiting_and_Securing_Vulnerabilities_in_Java_Applications.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3285640Z",
+                      "modifiedAt":  "2026-03-04T05:57:31.9995845Z"
+                  },
+                  {
+                      "name":  "Try_Hack_Me_Security_Engineer.jpg",
+                      "relativePath":  "certificates_web/Try_Hack_Me_Security_Engineer.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3274841Z",
+                      "modifiedAt":  "2026-03-04T07:15:21.4854843Z"
+                  },
+                  {
+                      "name":  "Try_Hack_Me_Pre_Security.jpg",
+                      "relativePath":  "certificates_web/Try_Hack_Me_Pre_Security.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3253757Z",
+                      "modifiedAt":  "2026-03-04T06:55:49.6535988Z"
+                  },
+                  {
+                      "name":  "Try_Hack_Me_DevSecOps.jpg",
+                      "relativePath":  "certificates_web/Try_Hack_Me_DevSecOps.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3224127Z",
+                      "modifiedAt":  "2026-03-04T07:18:20.5991119Z"
+                  },
+                  {
+                      "name":  "Try_Hack_Me_Cybersecurity_101.jpg",
+                      "relativePath":  "certificates_web/Try_Hack_Me_Cybersecurity_101.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3188058Z",
+                      "modifiedAt":  "2026-03-04T07:08:08.3294821Z"
+                  },
+                  {
+                      "name":  "Sololearn_Visualise_Your_Data.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Visualise_Your_Data.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3125848Z",
+                      "modifiedAt":  "2026-03-04T06:54:20.8082964Z"
+                  },
+                  {
+                      "name":  "Sololearn_Swift_4_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Swift_4_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3087425Z",
+                      "modifiedAt":  "2026-03-04T06:50:07.4760651Z"
+                  },
+                  {
+                      "name":  "Sololearn_SQL_Intermediate.jpg",
+                      "relativePath":  "certificates_web/Sololearn_SQL_Intermediate.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.3024167Z",
+                      "modifiedAt":  "2026-03-04T06:53:44.5593987Z"
+                  },
+                  {
+                      "name":  "Sololearn_Python_Intermediate.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Python_Intermediate.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2947663Z",
+                      "modifiedAt":  "2026-03-04T06:53:15.0469616Z"
+                  },
+                  {
+                      "name":  "Sololearn_Python_Core_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Python_Core_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2919458Z",
+                      "modifiedAt":  "2026-03-04T06:50:39.9954822Z"
+                  },
+                  {
+                      "name":  "Sololearn_Java_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Java_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2878135Z",
+                      "modifiedAt":  "2026-03-04T06:51:28.3350694Z"
+                  },
+                  {
+                      "name":  "Sololearn_JavaScript_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_JavaScript_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2835573Z",
+                      "modifiedAt":  "2026-03-04T06:49:28.3519381Z"
+                  },
+                  {
+                      "name":  "Sololearn_JavaScript_Intermediate.jpg",
+                      "relativePath":  "certificates_web/Sololearn_JavaScript_Intermediate.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2801265Z",
+                      "modifiedAt":  "2026-03-04T06:55:17.1278836Z"
+                  },
+                  {
+                      "name":  "Sololearn_Introduction_to_SQL.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Introduction_to_SQL.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2760434Z",
+                      "modifiedAt":  "2026-03-04T06:51:46.4329602Z"
+                  },
+                  {
+                      "name":  "Sololearn_HTML_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_HTML_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2720599Z",
+                      "modifiedAt":  "2026-03-04T06:51:11.7246320Z"
+                  },
+                  {
+                      "name":  "Sololearn_Generative_AI_in_Practice.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Generative_AI_in_Practice.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2686577Z",
+                      "modifiedAt":  "2026-03-04T06:53:00.1668829Z"
+                  },
+                  {
+                      "name":  "Sololearn_Data_Analytics_with_AI.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Data_Analytics_with_AI.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2633816Z",
+                      "modifiedAt":  "2026-03-04T06:54:43.6176332Z"
+                  },
+                  {
+                      "name":  "Sololearn_C_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_C_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2585457Z",
+                      "modifiedAt":  "2026-03-04T06:49:05.9503839Z"
+                  },
+                  {
+                      "name":  "Sololearn_CSS_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_CSS_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2542310Z",
+                      "modifiedAt":  "2026-03-04T06:49:46.0460591Z"
+                  },
+                  {
+                      "name":  "Sololearn_C++_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_C___Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2503361Z",
+                      "modifiedAt":  "2026-03-04T06:50:55.3199993Z"
+                  },
+                  {
+                      "name":  "Sololearn_C++_Intermediate.jpg",
+                      "relativePath":  "certificates_web/Sololearn_C___Intermediate.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2462786Z",
+                      "modifiedAt":  "2026-03-04T06:54:04.6685001Z"
+                  },
+                  {
+                      "name":  "Sololearn_C#_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_C__Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2401594Z",
+                      "modifiedAt":  "2026-03-04T06:50:22.8040494Z"
+                  },
+                  {
+                      "name":  "Sololearn_C#_Intermediate.jpg",
+                      "relativePath":  "certificates_web/Sololearn_C__Intermediate.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2371919Z",
+                      "modifiedAt":  "2026-03-04T06:54:57.9710602Z"
+                  },
+                  {
+                      "name":  "Sololearn_Angular_Programming.jpg",
+                      "relativePath":  "certificates_web/Sololearn_Angular_Programming.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2320714Z",
+                      "modifiedAt":  "2026-03-04T06:53:29.4603098Z"
+                  },
+                  {
+                      "name":  "Sololearn_AI_in_Data_Analysis.jpg",
+                      "relativePath":  "certificates_web/Sololearn_AI_in_Data_Analysis.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2270521Z",
+                      "modifiedAt":  "2026-03-04T06:52:43.0122382Z"
+                  },
+                  {
+                      "name":  "Sololearn_AI-Powered_A_B_Testing.jpg",
+                      "relativePath":  "certificates_web/Sololearn_AI-Powered_A_B_Testing.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2235269Z",
+                      "modifiedAt":  "2026-03-04T06:52:21.9187710Z"
+                  },
+                  {
+                      "name":  "Packt_Unity_C#_Scripting_Complete_C#_for_Unity_Game_Development.jpeg",
+                      "relativePath":  "certificates_web/Packt_Unity_C__Scripting_Complete_C__for_Unity_Game_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2183695Z",
+                      "modifiedAt":  "2026-03-04T07:05:20.3922012Z"
+                  },
+                  {
+                      "name":  "Packt_Introduction_to_Unity_and_Basic_C#_Scripting.jpeg",
+                      "relativePath":  "certificates_web/Packt_Introduction_to_Unity_and_Basic_C__Scripting.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2132357Z",
+                      "modifiedAt":  "2026-03-04T07:01:45.4852066Z"
+                  },
+                  {
+                      "name":  "Packt_Intermediate_3D_Modelling_and_Game_Asset_Creation.jpeg",
+                      "relativePath":  "certificates_web/Packt_Intermediate_3D_Modelling_and_Game_Asset_Creation.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2083072Z",
+                      "modifiedAt":  "2026-03-04T07:10:08.3200753Z"
+                  },
+                  {
+                      "name":  "Packt_Immediate_C#_Scripting_Game_Mechanics_\u0026_Reusable_Scripts.jpeg",
+                      "relativePath":  "certificates_web/Packt_Immediate_C__Scripting_Game_Mechanics___Reusable_Scripts.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.2034718Z",
+                      "modifiedAt":  "2026-03-04T07:03:43.8554700Z"
+                  },
+                  {
+                      "name":  "Packt_Foundations_of_3D_Modelling_in_Blender.jpeg",
+                      "relativePath":  "certificates_web/Packt_Foundations_of_3D_Modelling_in_Blender.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1974269Z",
+                      "modifiedAt":  "2026-03-04T07:06:17.4066256Z"
+                  },
+                  {
+                      "name":  "Packt_Advanced_Unity_Scripting,_AI,_\u0026_Complete_3D_Game_Development.jpeg",
+                      "relativePath":  "certificates_web/Packt_Advanced_Unity_Scripting__AI____Complete_3D_Game_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1930055Z",
+                      "modifiedAt":  "2026-03-04T07:05:56.1460377Z"
+                  },
+                  {
+                      "name":  "Packt_Advanced_Modelling,_Rendering,_and_Unreal_Engine_Integration.jpeg",
+                      "relativePath":  "certificates_web/Packt_Advanced_Modelling__Rendering__and_Unreal_Engine_Integration.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1876540Z",
+                      "modifiedAt":  "2026-03-04T07:12:14.3365403Z"
+                  },
+                  {
+                      "name":  "Microsoft_Introduction_to_Programming_with_C#.jpeg",
+                      "relativePath":  "certificates_web/Microsoft_Introduction_to_Programming_with_C_.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1815064Z",
+                      "modifiedAt":  "2026-03-04T07:29:10.1316125Z"
+                  },
+                  {
+                      "name":  "Microsoft_Foundations_of_Coding_Back-End.jpeg",
+                      "relativePath":  "certificates_web/Microsoft_Foundations_of_Coding_Back-End.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1765438Z",
+                      "modifiedAt":  "2026-03-04T07:26:19.3056521Z"
+                  },
+                  {
+                      "name":  "Microsoft_Back-End_Development_with_.NET.jpeg",
+                      "relativePath":  "certificates_web/Microsoft_Back-End_Development_with_.NET.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1718638Z",
+                      "modifiedAt":  "2026-03-04T07:29:28.3710364Z"
+                  },
+                  {
+                      "name":  "LearnQuest_Securing_Cloud_and_Hybrid_Networks.jpeg",
+                      "relativePath":  "certificates_web/LearnQuest_Securing_Cloud_and_Hybrid_Networks.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1655503Z",
+                      "modifiedAt":  "2026-03-04T05:55:32.0960332Z"
+                  },
+                  {
+                      "name":  "LearnQuest_Next_-_Generation_Firewalls_and_Intrustion_Prevention.jpeg",
+                      "relativePath":  "certificates_web/LearnQuest_Next_-_Generation_Firewalls_and_Intrustion_Prevention.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1602663Z",
+                      "modifiedAt":  "2026-03-04T05:56:01.7669452Z"
+                  },
+                  {
+                      "name":  "LearnQuest_Advanced_Threat_Hunting_and_Incident_Response.jpeg",
+                      "relativePath":  "certificates_web/LearnQuest_Advanced_Threat_Hunting_and_Incident_Response.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1564060Z",
+                      "modifiedAt":  "2026-03-04T05:50:19.1101587Z"
+                  },
+                  {
+                      "name":  "LearnQuest_Advanced_Network_Security.jpeg",
+                      "relativePath":  "certificates_web/LearnQuest_Advanced_Network_Security.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1512888Z",
+                      "modifiedAt":  "2026-03-04T05:48:54.6632275Z"
+                  },
+                  {
+                      "name":  "LearnkartS_System_\u0026_Network_Security_Essentials.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_System___Network_Security_Essentials.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1462206Z",
+                      "modifiedAt":  "2026-03-04T06:59:19.1599145Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Ethical_Hacking_Fundamentals.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_Ethical_Hacking_Fundamentals.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1416933Z",
+                      "modifiedAt":  "2026-03-04T05:52:47.9501421Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Ethical_Hacking.jpg",
+                      "relativePath":  "certificates_web/LearnkartS_Ethical_Hacking.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1397670Z",
+                      "modifiedAt":  "2026-03-04T07:00:20.0098349Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Core_AWS_Services.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_Core_AWS_Services.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1336667Z",
+                      "modifiedAt":  "2026-03-04T07:22:23.6096965Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Cloud_and_AWS_Basics.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_Cloud_and_AWS_Basics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1294486Z",
+                      "modifiedAt":  "2026-03-04T07:21:46.5827479Z"
+                  },
+                  {
+                      "name":  "LearnkartS_AWS_Solutions_Archtect_Associate_Exam_Prep.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_AWS_Solutions_Archtect_Associate_Exam_Prep.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1254246Z",
+                      "modifiedAt":  "2026-03-04T07:25:20.5803764Z"
+                  },
+                  {
+                      "name":  "LearnkartS_AWS_Advanced_Architecture_\u0026_Cloud_Design.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_AWS_Advanced_Architecture___Cloud_Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1194373Z",
+                      "modifiedAt":  "2026-03-04T07:24:54.6084420Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Architecting_in_AWS.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_Architecting_in_AWS.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1148419Z",
+                      "modifiedAt":  "2026-03-04T07:25:37.4118455Z"
+                  },
+                  {
+                      "name":  "LearnkartS_Advanced_Ethical_Hacking_\u0026_Cybersecurity.jpeg",
+                      "relativePath":  "certificates_web/LearnkartS_Advanced_Ethical_Hacking___Cybersecurity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1100030Z",
+                      "modifiedAt":  "2026-03-04T06:59:55.7874967Z"
+                  },
+                  {
+                      "name":  "Johns_Hopkins_University_Foundations_of_Data_Visualization.jpeg",
+                      "relativePath":  "certificates_web/Johns_Hopkins_University_Foundations_of_Data_Visualization.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.1038405Z",
+                      "modifiedAt":  "2026-03-04T07:06:39.8202245Z"
+                  },
+                  {
+                      "name":  "Johns_Hopkins_Specialized_Data_Visualization_Approaches.jpeg",
+                      "relativePath":  "certificates_web/Johns_Hopkins_Specialized_Data_Visualization_Approaches.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0998955Z",
+                      "modifiedAt":  "2026-03-04T07:07:43.0296581Z"
+                  },
+                  {
+                      "name":  "Johns_Hopkins_Data_Visualization.jpeg",
+                      "relativePath":  "certificates_web/Johns_Hopkins_Data_Visualization.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0946309Z",
+                      "modifiedAt":  "2026-03-04T07:07:19.4031943Z"
+                  },
+                  {
+                      "name":  "Johns_Hopkins_Advanced_Techniques_in_Data_Visualization.jpeg",
+                      "relativePath":  "certificates_web/Johns_Hopkins_Advanced_Techniques_in_Data_Visualization.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0897514Z",
+                      "modifiedAt":  "2026-03-04T07:07:03.3496039Z"
+                  },
+                  {
+                      "name":  "IBM_Tools_for_Data_Science.jpeg",
+                      "relativePath":  "certificates_web/IBM_Tools_for_Data_Science.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0867278Z",
+                      "modifiedAt":  "2026-03-04T07:10:21.9716033Z"
+                  },
+                  {
+                      "name":  "IBM_Software_Developer_Career_Guide_and_Interview_Preperation.jpeg",
+                      "relativePath":  "certificates_web/IBM_Software_Developer_Career_Guide_and_Interview_Preperation.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0823962Z",
+                      "modifiedAt":  "2026-03-04T06:26:24.0250288Z"
+                  },
+                  {
+                      "name":  "IBM_Security_Analyst_Fundamentals.jpg",
+                      "relativePath":  "certificates_web/IBM_Security_Analyst_Fundamentals.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0799810Z",
+                      "modifiedAt":  "2026-03-04T06:58:27.3807463Z"
+                  },
+                  {
+                      "name":  "IBM_Relational_Database_Administration_(DBA).jpeg",
+                      "relativePath":  "certificates_web/IBM_Relational_Database_Administration__DBA_.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0756912Z",
+                      "modifiedAt":  "2026-03-04T07:19:41.3089867Z"
+                  },
+                  {
+                      "name":  "IBM_Python_Project_for_Data_Science.jpeg",
+                      "relativePath":  "certificates_web/IBM_Python_Project_for_Data_Science.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0708703Z",
+                      "modifiedAt":  "2026-03-04T07:13:07.2386903Z"
+                  },
+                  {
+                      "name":  "IBM_Python_Project_for_Data_Engineering.jpeg",
+                      "relativePath":  "certificates_web/IBM_Python_Project_for_Data_Engineering.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0657345Z",
+                      "modifiedAt":  "2026-03-04T07:11:06.0191219Z"
+                  },
+                  {
+                      "name":  "IBM_Python_for_Data_Science,_AI_\u0026_Development.jpeg",
+                      "relativePath":  "certificates_web/IBM_Python_for_Data_Science__AI___Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0613621Z",
+                      "modifiedAt":  "2026-03-04T06:38:42.1858893Z"
+                  },
+                  {
+                      "name":  "IBM_Penetration_Testing,_Threat_Hunting,_and_Cryptography.jpeg",
+                      "relativePath":  "certificates_web/IBM_Penetration_Testing__Threat_Hunting__and_Cryptography.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0572635Z",
+                      "modifiedAt":  "2026-03-04T05:51:59.2755699Z"
+                  },
+                  {
+                      "name":  "IBM_Operating_Systems_Overview,_Administratino,_and_Security.jpeg",
+                      "relativePath":  "certificates_web/IBM_Operating_Systems_Overview__Administratino__and_Security.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0523469Z",
+                      "modifiedAt":  "2026-03-04T06:56:28.7510983Z"
+                  },
+                  {
+                      "name":  "IBM_Monitoring_and_Observability_for_Development_and_DevOps.jpeg",
+                      "relativePath":  "certificates_web/IBM_Monitoring_and_Observability_for_Development_and_DevOps.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0471556Z",
+                      "modifiedAt":  "2026-03-04T06:28:46.9254997Z"
+                  },
+                  {
+                      "name":  "IBM_Machine_Learning_with_Python.jpeg",
+                      "relativePath":  "certificates_web/IBM_Machine_Learning_with_Python.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0423250Z",
+                      "modifiedAt":  "2026-03-04T06:41:41.4969644Z"
+                  },
+                  {
+                      "name":  "IBM_IT_Fundamentals_for_Cybersecurity.jpeg",
+                      "relativePath":  "certificates_web/IBM_IT_Fundamentals_for_Cybersecurity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0381808Z",
+                      "modifiedAt":  "2026-03-04T06:56:48.7458041Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Test_and_Behavior_Driven_Development.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Test_and_Behavior_Driven_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0331580Z",
+                      "modifiedAt":  "2026-03-04T07:23:17.2938566Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Software_Engineering.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Software_Engineering.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0273032Z",
+                      "modifiedAt":  "2026-03-04T06:39:43.2077269Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Relational_Databases_(RDBMS).jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Relational_Databases__RDBMS_.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0232187Z",
+                      "modifiedAt":  "2026-03-04T07:14:56.0593307Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Neural_Networks_with_PyTorch.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Neural_Networks_with_PyTorch.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0192746Z",
+                      "modifiedAt":  "2026-03-04T06:36:00.4107414Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_HTML,_CSS,_\u0026_JavaScript.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_HTML__CSS____JavaScript.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0153414Z",
+                      "modifiedAt":  "2026-03-04T06:41:19.9947539Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_DevOps.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_DevOps.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0111107Z",
+                      "modifiedAt":  "2026-03-04T07:18:37.9157052Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Deep_Learning_\u0026_Neural_Networks_with_Keras.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Deep_Learning___Neural_Networks_with_Keras.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0080529Z",
+                      "modifiedAt":  "2026-03-04T06:40:16.8037618Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Data_Engineering.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Data_Engineering.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:04.0029866Z",
+                      "modifiedAt":  "2026-03-04T07:10:41.3109748Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Data_Analytics.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Data_Analytics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9999935Z",
+                      "modifiedAt":  "2026-03-04T07:04:51.8881952Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Cybersecurity_Tools_\u0026_Frameworks.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Cybersecurity_Tools___Frameworks.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9960838Z",
+                      "modifiedAt":  "2026-03-04T05:54:19.5436444Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Containers_with_Docker,_Kubernetes_\u0026_OpenShift.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Containers_with_Docker__Kubernetes___OpenShift.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9913754Z",
+                      "modifiedAt":  "2026-03-04T06:34:55.1315088Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Cloud_Computing.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Cloud_Computing.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9865979Z",
+                      "modifiedAt":  "2026-03-04T06:40:51.9266434Z"
+                  },
+                  {
+                      "name":  "IBM_Introduction_to_Agile_Development_and_Scrum.jpeg",
+                      "relativePath":  "certificates_web/IBM_Introduction_to_Agile_Development_and_Scrum.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9823901Z",
+                      "modifiedAt":  "2026-03-04T07:21:27.8007835Z"
+                  },
+                  {
+                      "name":  "IBM_Incident_Response_and_Digital_Forensics.jpeg",
+                      "relativePath":  "certificates_web/IBM_Incident_Response_and_Digital_Forensics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9786848Z",
+                      "modifiedAt":  "2026-03-04T05:50:41.3311683Z"
+                  },
+                  {
+                      "name":  "IBM_Hands-on_Introduction_to_Linux_Commands_and_Shell_Scripting.jpeg",
+                      "relativePath":  "certificates_web/IBM_Hands-on_Introduction_to_Linux_Commands_and_Shell_Scripting.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9748082Z",
+                      "modifiedAt":  "2026-03-04T06:39:26.7830929Z"
+                  },
+                  {
+                      "name":  "IBM_Getting_Started_with_Git_and_GitHub.jpeg",
+                      "relativePath":  "certificates_web/IBM_Getting_Started_with_Git_and_GitHub.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9707154Z",
+                      "modifiedAt":  "2026-03-04T06:45:13.4109085Z"
+                  },
+                  {
+                      "name":  "IBM_Gen_AI_Foundational_Models_for_NLP_\u0026_Language_Understanding.jpeg",
+                      "relativePath":  "certificates_web/IBM_Gen_AI_Foundational_Models_for_NLP___Language_Understanding.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9676996Z",
+                      "modifiedAt":  "2026-03-04T06:35:21.1222207Z"
+                  },
+                  {
+                      "name":  "IBM_Generative_AI_Language_Modeling_with_Transformers.jpeg",
+                      "relativePath":  "certificates_web/IBM_Generative_AI_Language_Modeling_with_Transformers.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9623742Z",
+                      "modifiedAt":  "2026-03-04T06:35:40.6087070Z"
+                  },
+                  {
+                      "name":  "IBM_Generative_AI_Engineering_and_Fine_-_Tuning_Transformers.jpeg",
+                      "relativePath":  "certificates_web/IBM_Generative_AI_Engineering_and_Fine_-_Tuning_Transformers.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9570443Z",
+                      "modifiedAt":  "2026-03-04T06:30:36.6167209Z"
+                  },
+                  {
+                      "name":  "IBM_Generative_AI_Elevate_your_Software_Developmen_Career.jpeg",
+                      "relativePath":  "certificates_web/IBM_Generative_AI_Elevate_your_Software_Developmen_Career.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9529476Z",
+                      "modifiedAt":  "2026-03-04T06:30:04.3236385Z"
+                  },
+                  {
+                      "name":  "IBM_Generative_AI_and_LLMs_Architecture_and_Data_Preperation.jpeg",
+                      "relativePath":  "certificates_web/IBM_Generative_AI_and_LLMs_Architecture_and_Data_Preperation.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9489501Z",
+                      "modifiedAt":  "2026-03-04T06:31:28.3469667Z"
+                  },
+                  {
+                      "name":  "IBM_Generative_AI_Advance_Fine_-_Tuning_for_LLMs.jpeg",
+                      "relativePath":  "certificates_web/IBM_Generative_AI_Advance_Fine_-_Tuning_for_LLMs.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9437282Z",
+                      "modifiedAt":  "2026-03-04T05:58:21.6271502Z"
+                  },
+                  {
+                      "name":  "IBM_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain.jpeg",
+                      "relativePath":  "certificates_web/IBM_Fundamentals_of_AI_Agents_Using_RAG_and_LangChain.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9406253Z",
+                      "modifiedAt":  "2026-03-04T05:56:30.0314556Z"
+                  },
+                  {
+                      "name":  "IBM_Full_Stack_Software_Developer_Assessment.jpeg",
+                      "relativePath":  "certificates_web/IBM_Full_Stack_Software_Developer_Assessment.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9365926Z",
+                      "modifiedAt":  "2026-03-04T06:29:07.7123837Z"
+                  },
+                  {
+                      "name":  "IBM_Full_Stack_Software_Developer.jpeg",
+                      "relativePath":  "certificates_web/IBM_Full_Stack_Software_Developer.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9326229Z",
+                      "modifiedAt":  "2026-03-04T05:48:13.3822809Z"
+                  },
+                  {
+                      "name":  "IBM_Full_Stack_Application_Development_Capstone_Project.jpeg",
+                      "relativePath":  "certificates_web/IBM_Full_Stack_Application_Development_Capstone_Project.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9276660Z",
+                      "modifiedAt":  "2026-03-04T06:27:53.4780462Z"
+                  },
+                  {
+                      "name":  "IBM_Excel_Basics_for_Data_Analytics.jpeg",
+                      "relativePath":  "certificates_web/IBM_Excel_Basics_for_Data_Analytics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9243626Z",
+                      "modifiedAt":  "2026-03-04T07:08:28.2518952Z"
+                  },
+                  {
+                      "name":  "IBM_ETL_and_Data_Pipelines_with_Shell,_Airflow_and_Kafka.jpeg",
+                      "relativePath":  "certificates_web/IBM_ETL_and_Data_Pipelines_with_Shell__Airflow_and_Kafka.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9200412Z",
+                      "modifiedAt":  "2026-03-04T07:26:03.5026217Z"
+                  },
+                  {
+                      "name":  "IBM_Django_Application_Development_with_SQL_and_Databases.jpeg",
+                      "relativePath":  "certificates_web/IBM_Django_Application_Development_with_SQL_and_Databases.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9150546Z",
+                      "modifiedAt":  "2026-03-04T06:31:50.5705553Z"
+                  },
+                  {
+                      "name":  "IBM_DevOps_Capstone_Project.jpeg",
+                      "relativePath":  "certificates_web/IBM_DevOps_Capstone_Project.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9105150Z",
+                      "modifiedAt":  "2026-03-04T07:23:53.8662614Z"
+                  },
+                  {
+                      "name":  "IBM_DevOps_and_Software_Engineering.jpeg",
+                      "relativePath":  "certificates_web/IBM_DevOps_and_Software_Engineering.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9075144Z",
+                      "modifiedAt":  "2026-03-04T07:24:11.4247251Z"
+                  },
+                  {
+                      "name":  "IBM_Developing_Front-End_Apps_with_React.jpeg",
+                      "relativePath":  "certificates_web/IBM_Developing_Front-End_Apps_with_React.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.9035432Z",
+                      "modifiedAt":  "2026-03-04T06:39:00.8230803Z"
+                  },
+                  {
+                      "name":  "IBM_Developing_Back-End_Apps_with_Node.js_and_Express.jpeg",
+                      "relativePath":  "certificates_web/IBM_Developing_Back-End_Apps_with_Node.js_and_Express.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8985726Z",
+                      "modifiedAt":  "2026-03-04T06:36:26.6563149Z"
+                  },
+                  {
+                      "name":  "IBM_Developing_AI_Applications_with_Python_and_Flask.jpeg",
+                      "relativePath":  "certificates_web/IBM_Developing_AI_Applications_with_Python_and_Flask.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8955318Z",
+                      "modifiedAt":  "2026-03-04T06:36:53.1371860Z"
+                  },
+                  {
+                      "name":  "IBM_Deep_Learning_with_PyTorch.jpeg",
+                      "relativePath":  "certificates_web/IBM_Deep_Learning_with_PyTorch.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8910507Z",
+                      "modifiedAt":  "2026-03-04T06:33:37.8142599Z"
+                  },
+                  {
+                      "name":  "IBM_Deep_Learning_with_Keras_and_Tensorflow.jpeg",
+                      "relativePath":  "certificates_web/IBM_Deep_Learning_with_Keras_and_Tensorflow.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8868703Z",
+                      "modifiedAt":  "2026-03-04T06:38:15.6623073Z"
+                  },
+                  {
+                      "name":  "IBM_Data_Vizualization_and_Dashboards_with_Excel_and_Cognos.jpeg",
+                      "relativePath":  "certificates_web/IBM_Data_Vizualization_and_Dashboards_with_Excel_and_Cognos.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8838794Z",
+                      "modifiedAt":  "2026-03-04T07:11:46.8849392Z"
+                  },
+                  {
+                      "name":  "IBM_Data_Analysis_with_Python.jpeg",
+                      "relativePath":  "certificates_web/IBM_Data_Analysis_with_Python.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8798274Z",
+                      "modifiedAt":  "2026-03-04T07:18:51.0609763Z"
+                  },
+                  {
+                      "name":  "IBM_Databases_and_SQL_for_Data_Science_with_Python.jpeg",
+                      "relativePath":  "certificates_web/IBM_Databases_and_SQL_for_Data_Science_with_Python.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8760818Z",
+                      "modifiedAt":  "2026-03-04T07:17:21.5395225Z"
+                  },
+                  {
+                      "name":  "IBM_Cybersecurity_Compliance_Frameworks_Standards_\u0026_Regulations.jpeg",
+                      "relativePath":  "certificates_web/IBM_Cybersecurity_Compliance_Frameworks_Standards___Regulations.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8720583Z",
+                      "modifiedAt":  "2026-03-04T05:49:53.4029270Z"
+                  },
+                  {
+                      "name":  "IBM_Cybersecurity_Case_Studies_and_Capstone_Project.jpeg",
+                      "relativePath":  "certificates_web/IBM_Cybersecurity_Case_Studies_and_Capstone_Project.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8662293Z",
+                      "modifiedAt":  "2026-03-04T06:58:56.5201537Z"
+                  },
+                  {
+                      "name":  "IBM_Continuous_Integration_and_Continuous_Delivery.jpeg",
+                      "relativePath":  "certificates_web/IBM_Continuous_Integration_and_Continuous_Delivery.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8617700Z",
+                      "modifiedAt":  "2026-03-04T07:23:38.1432403Z"
+                  },
+                  {
+                      "name":  "IBM_Computer_Networks_and_Network_Security.jpeg",
+                      "relativePath":  "certificates_web/IBM_Computer_Networks_and_Network_Security.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8586277Z",
+                      "modifiedAt":  "2026-03-04T06:57:18.8363471Z"
+                  },
+                  {
+                      "name":  "IBM_Back_End_Development.jpeg",
+                      "relativePath":  "certificates_web/IBM_Back_End_Development.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8545596Z",
+                      "modifiedAt":  "2026-03-04T05:47:31.0488508Z"
+                  },
+                  {
+                      "name":  "IBM_Back_End_Application_Development_Capstone_Project.jpeg",
+                      "relativePath":  "certificates_web/IBM_Back_End_Application_Development_Capstone_Project.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8506261Z",
+                      "modifiedAt":  "2026-03-04T06:27:28.9997845Z"
+                  },
+                  {
+                      "name":  "IBM_Applied_Software_Engineering_Fundamentals.jpeg",
+                      "relativePath":  "certificates_web/IBM_Applied_Software_Engineering_Fundamentals.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8435777Z",
+                      "modifiedAt":  "2026-03-04T07:24:32.6062968Z"
+                  },
+                  {
+                      "name":  "IBM_Application_Security_for_Developers_and_DevOps_Professionals.jpeg",
+                      "relativePath":  "certificates_web/IBM_Application_Security_for_Developers_and_DevOps_Professionals.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8391221Z",
+                      "modifiedAt":  "2026-03-04T06:31:04.7771051Z"
+                  },
+                  {
+                      "name":  "IBM_Application_Developmen_using_Microservices_and_Serverless.jpeg",
+                      "relativePath":  "certificates_web/IBM_Application_Developmen_using_Microservices_and_Serverless.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8341339Z",
+                      "modifiedAt":  "2026-03-04T06:29:35.1845512Z"
+                  },
+                  {
+                      "name":  "IBM_AI_Capstone_Project_with_Deep_Learning.jpeg",
+                      "relativePath":  "certificates_web/IBM_AI_Capstone_Project_with_Deep_Learning.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8302308Z",
+                      "modifiedAt":  "2026-03-04T06:34:21.5101366Z"
+                  },
+                  {
+                      "name":  "Google_UX_Design.jpeg",
+                      "relativePath":  "certificates_web/Google_UX_Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8266486Z",
+                      "modifiedAt":  "2026-03-04T07:21:07.2755970Z"
+                  },
+                  {
+                      "name":  "Google_Tools_of_the_Trade_Linux_and_SQL.jpeg",
+                      "relativePath":  "certificates_web/Google_Tools_of_the_Trade_Linux_and_SQL.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8216047Z",
+                      "modifiedAt":  "2026-03-04T06:46:11.3015788Z"
+                  },
+                  {
+                      "name":  "Google_The_Power_of_Statistics.jpeg",
+                      "relativePath":  "certificates_web/Google_The_Power_of_Statistics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8175959Z",
+                      "modifiedAt":  "2026-03-04T06:37:36.8729681Z"
+                  },
+                  {
+                      "name":  "Google_The_Nuts_and_Bolts_of_Machine_Learning.jpeg",
+                      "relativePath":  "certificates_web/Google_The_Nuts_and_Bolts_of_Machine_Learning.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8135282Z",
+                      "modifiedAt":  "2026-03-04T06:27:01.3928806Z"
+                  },
+                  {
+                      "name":  "Google_Start_the_UX_Design_Process_Emphasize,_Define,_and_Ideate.jpeg",
+                      "relativePath":  "certificates_web/Google_Start_the_UX_Design_Process_Emphasize__Define__and_Ideate.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8095545Z",
+                      "modifiedAt":  "2026-03-04T07:02:14.2493948Z"
+                  },
+                  {
+                      "name":  "Google_Sound_the_Alarm_Detection_and_Response.jpeg",
+                      "relativePath":  "certificates_web/Google_Sound_the_Alarm_Detection_and_Response.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.8047630Z",
+                      "modifiedAt":  "2026-03-04T06:46:46.8711656Z"
+                  },
+                  {
+                      "name":  "Google_Regression_Analysis_Simplify_Complex_Data_Relationships.jpeg",
+                      "relativePath":  "certificates_web/Google_Regression_Analysis_Simplify_Complex_Data_Relationships.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7996532Z",
+                      "modifiedAt":  "2026-03-04T06:32:18.7193709Z"
+                  },
+                  {
+                      "name":  "Google_Put_It_to_Work_Prepare_for_Cybersecurity_Jobs.jpeg",
+                      "relativePath":  "certificates_web/Google_Put_It_to_Work_Prepare_for_Cybersecurity_Jobs.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7941612Z",
+                      "modifiedAt":  "2026-03-04T06:48:33.3752616Z"
+                  },
+                  {
+                      "name":  "Google_Play_It_Safe_Manage_Security_Risks.jpeg",
+                      "relativePath":  "certificates_web/Google_Play_It_Safe_Manage_Security_Risks.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7886652Z",
+                      "modifiedAt":  "2026-03-04T06:47:41.9677822Z"
+                  },
+                  {
+                      "name":  "Google_Go_Beyond_the_Numbers_Translate_Data_into_Insights.jpeg",
+                      "relativePath":  "certificates_web/Google_Go_Beyond_the_Numbers_Translate_Data_into_Insights.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7829037Z",
+                      "modifiedAt":  "2026-03-04T06:37:20.4036535Z"
+                  },
+                  {
+                      "name":  "Google_Get_Started_with_Python.jpg",
+                      "relativePath":  "certificates_web/Google_Get_Started_with_Python.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7816558Z",
+                      "modifiedAt":  "2026-03-04T06:44:46.1378961Z"
+                  },
+                  {
+                      "name":  "Google_Getting_Started_with_Redis_and_RediSearch.jpeg",
+                      "relativePath":  "certificates_web/Google_Getting_Started_with_Redis_and_RediSearch.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7776313Z",
+                      "modifiedAt":  "2026-03-04T07:27:21.3716541Z"
+                  },
+                  {
+                      "name":  "Google_Foundations_of_User_Experience_(UX)_Design.jpeg",
+                      "relativePath":  "certificates_web/Google_Foundations_of_User_Experience__UX__Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7726454Z",
+                      "modifiedAt":  "2026-03-04T05:53:31.6992438Z"
+                  },
+                  {
+                      "name":  "Google_Foundations_of_Data_Science.jpeg",
+                      "relativePath":  "certificates_web/Google_Foundations_of_Data_Science.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7677145Z",
+                      "modifiedAt":  "2026-03-04T06:40:33.0823161Z"
+                  },
+                  {
+                      "name":  "Google_Foundations_of_Cybersecurity.jpeg",
+                      "relativePath":  "certificates_web/Google_Foundations_of_Cybersecurity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7637511Z",
+                      "modifiedAt":  "2026-03-04T06:46:27.4688661Z"
+                  },
+                  {
+                      "name":  "Google_Essential_Google_Cloud_Infrastructure_Foundation.jpeg",
+                      "relativePath":  "certificates_web/Google_Essential_Google_Cloud_Infrastructure_Foundation.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7586053Z",
+                      "modifiedAt":  "2026-03-04T07:27:44.1818335Z"
+                  },
+                  {
+                      "name":  "Google_Design_a_User_Experience_for_Social_Good_\u0026_Prepare_for_Jobs.jpeg",
+                      "relativePath":  "certificates_web/Google_Design_a_User_Experience_for_Social_Good___Prepare_for_Jobs.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7533553Z",
+                      "modifiedAt":  "2026-03-04T07:20:55.7700107Z"
+                  },
+                  {
+                      "name":  "Google_Cybersecurity.jpeg",
+                      "relativePath":  "certificates_web/Google_Cybersecurity.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7483483Z",
+                      "modifiedAt":  "2026-03-04T06:45:27.9720565Z"
+                  },
+                  {
+                      "name":  "Google_Create_High-Fidelity_Designs_and_Prototypes_in_Figma.jpeg",
+                      "relativePath":  "certificates_web/Google_Create_High-Fidelity_Designs_and_Prototypes_in_Figma.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7442773Z",
+                      "modifiedAt":  "2026-03-04T07:19:16.7475732Z"
+                  },
+                  {
+                      "name":  "Google_Connect_and_Protect_Networks_and_Network_Security.jpeg",
+                      "relativePath":  "certificates_web/Google_Connect_and_Protect_Networks_and_Network_Security.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7399406Z",
+                      "modifiedAt":  "2026-03-04T06:48:07.1745102Z"
+                  },
+                  {
+                      "name":  "Google_Conduct_UX_Research_and_Test_Early_Concepts.jpeg",
+                      "relativePath":  "certificates_web/Google_Conduct_UX_Research_and_Test_Early_Concepts.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7359434Z",
+                      "modifiedAt":  "2026-03-04T07:14:31.2353653Z"
+                  },
+                  {
+                      "name":  "Google_Cloud_Fundamentals_Core_Infrastructure.jpeg",
+                      "relativePath":  "certificates_web/Google_Cloud_Fundamentals_Core_Infrastructure.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7319221Z",
+                      "modifiedAt":  "2026-03-04T07:22:08.3465847Z"
+                  },
+                  {
+                      "name":  "Google_Build_Wireframes_and_Low-Fidelity_Prototypes.jpeg",
+                      "relativePath":  "certificates_web/Google_Build_Wireframes_and_Low-Fidelity_Prototypes.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7279599Z",
+                      "modifiedAt":  "2026-03-04T07:09:35.5775003Z"
+                  },
+                  {
+                      "name":  "Google_Build_Dynamic_User_Interfaces_(UI)_for_Websites.jpeg",
+                      "relativePath":  "certificates_web/Google_Build_Dynamic_User_Interfaces__UI__for_Websites.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7236683Z",
+                      "modifiedAt":  "2026-03-04T07:20:24.7892532Z"
+                  },
+                  {
+                      "name":  "Google_Automate_Cybersecurity_Tasks_with_Python.jpeg",
+                      "relativePath":  "certificates_web/Google_Automate_Cybersecurity_Tasks_with_Python.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7187966Z",
+                      "modifiedAt":  "2026-03-04T06:45:48.9909764Z"
+                  },
+                  {
+                      "name":  "Google_Assets,_Threats,_and_Vulnerabilities.jpeg",
+                      "relativePath":  "certificates_web/Google_Assets__Threats__and_Vulnerabilities.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7146548Z",
+                      "modifiedAt":  "2026-03-04T06:47:13.1779833Z"
+                  },
+                  {
+                      "name":  "Google_AI_Essentials.jpg",
+                      "relativePath":  "certificates_web/Google_AI_Essentials.jpg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7128170Z",
+                      "modifiedAt":  "2026-03-04T07:04:12.7121907Z"
+                  },
+                  {
+                      "name":  "Google_Advanced_Data_Analytics_Capstone.jpeg",
+                      "relativePath":  "certificates_web/Google_Advanced_Data_Analytics_Capstone.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7080825Z",
+                      "modifiedAt":  "2026-03-04T06:28:20.4013498Z"
+                  },
+                  {
+                      "name":  "Google_Advanced_Data_Analytics.jpeg",
+                      "relativePath":  "certificates_web/Google_Advanced_Data_Analytics.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.7031960Z",
+                      "modifiedAt":  "2026-03-04T05:48:33.3313240Z"
+                  },
+                  {
+                      "name":  "Epic_Games_Unreal_Engine_Fundamentals.jpeg",
+                      "relativePath":  "certificates_web/Epic_Games_Unreal_Engine_Fundamentals.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6991302Z",
+                      "modifiedAt":  "2026-03-04T07:11:24.7853900Z"
+                  },
+                  {
+                      "name":  "Epic_Games_Introduction_to_Game_Design.jpeg",
+                      "relativePath":  "certificates_web/Epic_Games_Introduction_to_Game_Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6940513Z",
+                      "modifiedAt":  "2026-03-04T05:49:15.1280923Z"
+                  },
+                  {
+                      "name":  "Epic_Games_Fundamentals_of_Level_Design_with_Unreal_Engine.jpeg",
+                      "relativePath":  "certificates_web/Epic_Games_Fundamentals_of_Level_Design_with_Unreal_Engine.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6900482Z",
+                      "modifiedAt":  "2026-03-04T07:17:45.3794545Z"
+                  },
+                  {
+                      "name":  "Epic_Games_Blueprint_Scripting.jpeg",
+                      "relativePath":  "certificates_web/Epic_Games_Blueprint_Scripting.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6856984Z",
+                      "modifiedAt":  "2026-03-04T07:19:58.2340570Z"
+                  },
+                  {
+                      "name":  "Adobe_Image_Editing.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Image_Editing.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6807240Z",
+                      "modifiedAt":  "2026-03-04T07:02:26.2588828Z"
+                  },
+                  {
+                      "name":  "Adobe_Graphic_Designer.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Graphic_Designer.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6746798Z",
+                      "modifiedAt":  "2026-03-04T07:13:37.8977338Z"
+                  },
+                  {
+                      "name":  "Adobe_Graphic_Design.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Graphic_Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6700139Z",
+                      "modifiedAt":  "2026-03-04T07:13:18.6476321Z"
+                  },
+                  {
+                      "name":  "Adobe_Generative_AI_Content_Creation.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Generative_AI_Content_Creation.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6654526Z",
+                      "modifiedAt":  "2026-03-04T05:53:06.1479292Z"
+                  },
+                  {
+                      "name":  "Adobe_Document_Design.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Document_Design.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6603339Z",
+                      "modifiedAt":  "2026-03-04T07:13:53.4992783Z"
+                  },
+                  {
+                      "name":  "Adobe_Design_Fundamentals_with_AI.jpeg",
+                      "relativePath":  "certificates_web/Adobe_Design_Fundamentals_with_AI.jpeg",
+                      "thumbRelativePath":  null,
+                      "extension":  ".jpeg",
+                      "fileType":  "image",
+                      "createdAt":  "2026-03-04T08:22:03.6545484Z",
+                      "modifiedAt":  "2026-03-04T05:57:53.8043154Z"
+                  }
+              ]
+}
