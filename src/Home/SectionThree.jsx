@@ -3,14 +3,14 @@ import './SectionThree.css'
 function SectionThree() {
   return (
       <div id="section-three">
-          <img src="Image_5.png" id="image-one" alt="Usability Study Image"/>
+          <img src="Image_5.png" id="image-one" alt="Usability Study Image" loading="lazy" />
           <p>Conduct UX Research, Usability Studies, and Design User Experiences </p>
 
-          <img src="Image_6.png" id="image-two" alt="Machine Learning Image"/>
+          <img src="Image_6.png" id="image-two" alt="Machine Learning Image" loading="lazy" />
           <p>Machine Learning, Hyperparameter Tuning, Predictive Analytics, and
               Time Series Generators</p>
 
-          <img src="Image_7.png" id="image-three" alt="Game Design Image"/>
+          <img src="Image_7.png" id="image-three" alt="Game Design Image" loading="lazy" />
           <p>Real-Time Visual Engineering:<br /><br />
 
               Exploring environment composition, lighting, and shader workflows.

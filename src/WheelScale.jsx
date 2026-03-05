@@ -10,6 +10,7 @@ export function useWheelScale(
 
     useEffect(() => {
         const root = document.getElementById('root');
+        if (!root) return;
 
         const applyScale = () => {
             if (root) {
