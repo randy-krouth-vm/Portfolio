@@ -5,34 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\contact\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\contact\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\contact\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\contact\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\skills\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\skills\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\skills\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\skills\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\home\\sectionone.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\home\\sectionone.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\home\\sectionone.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\home\\sectionone.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\portfolio\\src\\home\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\home\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,96 +24,10 @@
               "RelativeDocumentMoniker": "src\\Contact\\Contact.css",
               "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Contact\\Contact.css",
               "RelativeToolTip": "src\\Contact\\Contact.css",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T11:29:48.945Z",
+              "WhenOpened": "2026-03-05T02:14:40.411Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contact.jsx",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Contact\\Contact.jsx",
-              "RelativeDocumentMoniker": "src\\Contact\\Contact.jsx",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Contact\\Contact.jsx",
-              "RelativeToolTip": "src\\Contact\\Contact.jsx",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-04T11:29:47.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Skills.css",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Skills\\Skills.css",
-              "RelativeDocumentMoniker": "src\\Skills\\Skills.css",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Skills\\Skills.css",
-              "RelativeToolTip": "src\\Skills\\Skills.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T11:29:26.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Skills.jsx",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Skills\\Skills.jsx",
-              "RelativeDocumentMoniker": "src\\Skills\\Skills.jsx",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Skills\\Skills.jsx",
-              "RelativeToolTip": "src\\Skills\\Skills.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-04T11:29:23.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SectionOne.jsx",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\SectionOne.jsx",
-              "RelativeDocumentMoniker": "src\\Home\\SectionOne.jsx",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\SectionOne.jsx",
-              "RelativeToolTip": "src\\Home\\SectionOne.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-04T11:28:42.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SectionOne.css",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\SectionOne.css",
-              "RelativeDocumentMoniker": "src\\Home\\SectionOne.css",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\SectionOne.css",
-              "RelativeToolTip": "src\\Home\\SectionOne.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T11:28:39.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\App.jsx",
-              "RelativeDocumentMoniker": "src\\Home\\App.jsx",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\App.jsx",
-              "RelativeToolTip": "src\\Home\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-03-04T11:28:32.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\App.css",
-              "RelativeDocumentMoniker": "src\\Home\\App.css",
-              "ToolTip": "C:\\Users\\randy\\Documents\\Portfolio\\src\\Home\\App.css",
-              "RelativeToolTip": "src\\Home\\App.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-04T11:28:29.45Z"
             }
           ]
         }

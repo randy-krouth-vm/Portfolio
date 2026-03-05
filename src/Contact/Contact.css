@@ -20,7 +20,7 @@ html, body {
     align-items: start;
     flex-direction: column;
     margin: 0;
-    padding-top: 0.1rem;
+    padding-top: 0.5rem;
     padding-right: 1rem;
 }
 
@@ -79,7 +79,7 @@ html, body {
     width: 40vw;
     height: 7vw;
     margin-left: 59vw;
-    margin-top: -5.5vw;
+    margin-top: -5.6vw;
 }
 
 #contact-icons {

@@ -23,6 +23,7 @@ html, body {
     margin: 0;
     padding-top: 3.18rem;
     z-index: 1;
+    transform: translateY(0.3vw);
 }
 
 #skills-main-section p {
@@ -40,7 +41,7 @@ html, body {
     justify-content: start;
     align-items: start;
     flex-direction: column;
-    margin-top: -0.3vw;
+    margin-top: 0vw;
 }
 
 #skills-advance p {
@@ -49,7 +50,7 @@ html, body {
     font-size: 2.3rem;
     font-weight: 375;
     margin-left: 3rem;
-    margin-top: 1.05rem;
+    margin-top: 1.23rem;
     z-index: 1;
 }
 
