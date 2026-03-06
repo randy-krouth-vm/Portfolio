@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="29.6.1">
   <diagram name="Page-1" id="Vj9H3uSdXZOzHSamYVmF">
-    <mxGraphModel dx="15780" dy="4900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="6719" dy="977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3111,9 +3111,9 @@
         <mxCell id="1p7aTPJoerzvOReT1d6R-143" parent="1p7aTPJoerzvOReT1d6R-202" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="Kerberos or&lt;div&gt;LDAP or&lt;/div&gt;&lt;div&gt;Scram-Sha-256 or&lt;/div&gt;&lt;div&gt;Environment Variable&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="175" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="1p7aTPJoerzvOReT1d6R-203" edge="1" parent="fjQrz3hnMPhjCWTDFtm6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" target="1p7aTPJoerzvOReT1d6R-142">
+        <mxCell id="1p7aTPJoerzvOReT1d6R-203" edge="1" parent="fjQrz3hnMPhjCWTDFtm6-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;startArrow=classic;startFill=1;" target="1p7aTPJoerzvOReT1d6R-142">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="924.1399999999994" y="961.9999999999998" as="sourcePoint" />
+            <mxPoint x="924" y="972" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1p7aTPJoerzvOReT1d6R-205" parent="fjQrz3hnMPhjCWTDFtm6-51" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;div&gt;&lt;div&gt;Managed&amp;nbsp;&lt;/div&gt;&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;Unmanaged&lt;/div&gt;&lt;/div&gt;" vertex="1">
