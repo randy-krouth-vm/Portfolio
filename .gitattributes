@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+C:/Users/randy/Documents/Portfolio/public/API_Tester_Recording.mp4 filter=lfs diff=lfs merge=lfs -text
