@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:src\\home\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|c:\\users\\randy\\documents\\other\\portfolio\\dist\\api_tester_recording.mp4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A97500C0-D17E-E859-BBA0-F4ACC6225985}|portfolio.esproj|solutionrelative:dist\\api_tester_recording.mp4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.jsx",
+              "RelativeDocumentMoniker": "src\\Home\\App.jsx",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\src\\Home\\App.jsx",
+              "RelativeToolTip": "src\\Home\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-06-15T12:14:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "API_Tester_Recording.mp4",
+              "DocumentMoniker": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\dist\\API_Tester_Recording.mp4",
+              "RelativeDocumentMoniker": "dist\\API_Tester_Recording.mp4",
+              "ToolTip": "C:\\Users\\randy\\Documents\\Other\\Portfolio\\dist\\API_Tester_Recording.mp4",
+              "RelativeToolTip": "dist\\API_Tester_Recording.mp4",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGGTBwBfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001836|",
+              "WhenOpened": "2026-06-15T12:12:01.76Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
