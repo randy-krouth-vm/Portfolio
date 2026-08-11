@@ -3,6 +3,14 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig(({ mode }) => ({
     server: {
+
+        host: '127.0.0.1',
+        port: 30000,
+
+        watch: {
+            ignored: ['**/.vs/**'],
+        },
+
         headers: mode === "production" ? {
             'X-Content-Type-Options': 'nosniff',
             'Content-Security-Policy':
