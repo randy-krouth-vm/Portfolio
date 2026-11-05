@@ -88,9 +88,9 @@ export const PROJECTS = [
     image: "projects_web/ArrowPSQL.png",
     caption: "Custom Database Integrations & Dashboards",
     description:
-      "A database integration layer and dashboard for exploring Arrow-backed datasets through PostgreSQL.",
+      "A database integration layer and dashboard for exploring Arrow-backed datasets, and PostgreSQL.",
     snapshot:
-      "This integration layer and dashboard makes Arrow-backed datasets queryable through PostgreSQL and turns the results into readable views. It sits between raw data work and the summaries people actually use.",
+      "This integration layer and dashboard makes Arrow-backed datasets queryable as well as PostgreSQL through DuckDB adapter and turns the results into readable views.",
     stack: ["PostgreSQL", "Arrow", "Dashboards", ".NET", "Python", "Kestrel"],
   },
   {
