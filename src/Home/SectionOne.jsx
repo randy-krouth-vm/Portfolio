@@ -39,9 +39,9 @@ function SectionOne() {
                       interface design to machine learning, cloud infrastructure, and agentic development.
                   </p>
                   <div className="hero-actions">
-                      <a className="btn btn-primary" href="#work">
+                      <Link className="btn btn-primary" to="/projects">
                           Explore my work <span aria-hidden="true">&rarr;</span>
-                      </a>
+                      </Link>
                       <Link className="btn btn-ghost" to="/contact">
                           Get in touch
                       </Link>

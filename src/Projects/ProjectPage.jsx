@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 
 import Reveal from "../Reveal.jsx";
@@ -8,10 +7,6 @@ import "./ProjectPage.css";
 function ProjectPage() {
   const { slug } = useParams();
   const project = getProject(slug);
-
-  useEffect(() => {
-    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
-  }, [slug]);
 
   if (!project) {
     return (

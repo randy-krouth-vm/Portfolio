@@ -84,7 +84,7 @@ export const PROJECTS = [
   },
   {
     slug: "arrow-psql",
-    title: "Arrow PSQL",
+    title: "ArrowPSQL",
     image: "projects_web/ArrowPSQL.png",
     caption: "Custom Database Integrations & Dashboards",
     description:
@@ -164,7 +164,7 @@ export const PROJECTS = [
     slug: "auto-fit-benchmark",
     title: "AutoFit Benchmark",
     image: "projects_web/AutoFit_Example_Poster.png",
-    caption: "Compression Benchmark Visualization",
+    caption: "Data Fitting Visualizations",
     description:
       "A benchmark view from AutoFit showing fitting graphical behavior across a representative test workload.",
     snapshot:
@@ -263,7 +263,7 @@ export const PROJECTS = [
     slug: "life-pilot",
     title: "LifePilot",
     image: "projects_web/LifePilot.png",
-    caption: "LifePilot — Personal Planning",
+    caption: "Personal Planning",
     description:
       "A planning platform for organizing goals, routines, and daily priorities in one calm dashboard.",
     snapshot:
@@ -274,7 +274,7 @@ export const PROJECTS = [
     slug: "unity-3d-prototype",
     title: "Unity 3D Prototype",
     image: "projects_web/Recording_2_Poster.png",
-    caption: "Unity — 3D Prototype Walkthrough",
+    caption: "3D Prototypes & Renders",
     description:
       "A Unity prototype walkthrough exploring third-person movement and an early environment blockout.",
     snapshot:
@@ -307,7 +307,7 @@ export const PROJECTS = [
     slug: "unity-prototyping",
     title: "Unity Game Prototype",
     image: "projects_web/Unity.png",
-    caption: "Unity Game Prototyping",
+    caption: "Unity Game Development",
     description:
       "A Unity prototype focused on movement, interaction, and quick iteration on game feel.",
     snapshot:
