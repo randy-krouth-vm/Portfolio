@@ -386,7 +386,7 @@ export const PROJECTS = [
     image: "projects_web/LLMCompression.png",
     caption: "Layer-Wise Model Compression",
     description:
-      "A compression pipeline that fits compact MLP and polynomial replacements to every attention and feed-forward layer of a 37B-parameter model.",
+      "A compression pipeline that fits compact MLP and polynomial replacements to every attention and feed-forward layer of a 27B-parameter model.",
     snapshot:
       "Input heads are looped until they match hash which is correct permutation. All 64 tested layers pass at 0.0010 mean MSE and 0.9995 mean cosine for the sorted latent space of the mlp, taking a 55 GB FP16 model down to roughly 5.36 GB plus token embeddings but at a cost of reduced throughput of best case 10 tok/s. This is an active research project we are exploring to maximize throughput and minimize disk/vram resource requirements.",
     stack: ["Python", "PyTorch", "FP16", "Model compression"],
