@@ -1,22 +1,25 @@
-import './SectionThree.css'
+import Reveal from '../Reveal.jsx'
+import WorkCarousel from './WorkCarousel.jsx'
 
 function SectionThree() {
   return (
-      <div id="section-three">
-          <img src="Image_5.png" id="image-one" alt="Usability Study Image" loading="lazy" />
-          <p>Conduct UX Research, Usability Studies, and Design User Experiences </p>
+    <section className="section section-soft capabilities">
+      <div className="container">
+        <Reveal className="section-head">
+          <p className="eyebrow">
+            <span className="eyebrow-dot" />
+            Capabilities
+          </p>
+          <h2 className="section-title">From First Sketch to Production.</h2>
+          <p className="section-lede">
+            I work across the stack and the processes &mdash; research, interface design,
+            engineering, and the infrastructure that keeps it all running.
+          </p>
+        </Reveal>
 
-          <img src="Image_6.png" id="image-two" alt="Machine Learning Image" loading="lazy" />
-          <p>Machine Learning, Hyperparameter Tuning, Predictive Analytics, and
-              Time Series Generators</p>
-
-          <img src="Image_7.png" id="image-three" alt="Game Design Image" loading="lazy" />
-          <p>Real-Time Visual Engineering:<br /><br />
-
-              Exploring environment composition, lighting, and shader workflows.
-              Blending art and direction with technical implementations to push the
-              boundaries of what&apos;s possible in interactive worlds.</p>
-        </div>
+        <WorkCarousel />
+      </div>
+    </section>
   );
 }
 

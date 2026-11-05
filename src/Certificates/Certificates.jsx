@@ -68,6 +68,26 @@ const isSafeRelativePath = (value) => {
   return segments.every((segment) => /^[A-Za-z0-9._-]+$/.test(segment));
 };
 
+const IMAGE_EXTENSIONS = new Set([".png", ".jpg", ".jpeg", ".webp", ".gif", ".avif"]);
+const DOCUMENT_EXTENSIONS = new Set([".pdf"]);
+
+const extensionOf = (value) => {
+  const match = /\.[A-Za-z0-9]+$/.exec(typeof value === "string" ? value : "");
+  return match ? match[0].toLowerCase() : "";
+};
+
+/*
+  The manifest is fetched at runtime, so paths are limited to the renderers this
+  page actually uses. A tampered manifest cannot point an <img> or <iframe> at
+  some other same-origin document.
+*/
+const isAllowedImagePath = (value) =>
+  isSafeRelativePath(value) && IMAGE_EXTENSIONS.has(extensionOf(value));
+
+const isAllowedCertificatePath = (value) =>
+  isAllowedImagePath(value) ||
+  (isSafeRelativePath(value) && DOCUMENT_EXTENSIONS.has(extensionOf(value)));
+
 const withBaseUrl = (value) => {
   const base = import.meta.env.BASE_URL || "/";
   const cleanBase = base.endsWith("/") ? base : `${base}/`;
@@ -217,8 +237,8 @@ export default function Certificates() {
           ? manifestData.files.filter(
               (entry) =>
                 typeof entry?.name === "string" &&
-                isSafeRelativePath(entry?.relativePath) &&
-                (!entry?.thumbRelativePath || isSafeRelativePath(entry.thumbRelativePath))
+                isAllowedCertificatePath(entry?.relativePath) &&
+                (!entry?.thumbRelativePath || isAllowedImagePath(entry.thumbRelativePath))
             )
           : [];
         setManifest({ ...manifestData, files: safeFiles });
@@ -235,7 +255,8 @@ export default function Certificates() {
       ...entry,
       title: normalizeTitle(entry.name),
       createdMs: parseStamp(entry.createdAt),
-      isPdf: entry.extension?.toLowerCase() === ".pdf",
+      fileType: isAllowedImagePath(entry.relativePath) ? "image" : "document",
+      isPdf: DOCUMENT_EXTENSIONS.has(extensionOf(entry.relativePath)),
       isThm: /(^THM_|try\s*hack\s*me)/i.test(entry.name),
       isAssessment: isAssessment(entry.name),
       pinnedTopIndex: getPinnedTopIndex(entry.name),
@@ -293,6 +314,18 @@ export default function Certificates() {
 
   return (
     <main className="certPage">
+      <header className="certHead">
+        <p className="eyebrow">
+          <span className="eyebrow-dot" />
+          Certificates
+        </p>
+        <h1 className="page-title">Courses, Badges, and Certificates.</h1>
+        <p className="page-lede">
+          A living collection of completed programs. Drag cards to rearrange them, and
+          click any card to preview the original document.
+        </p>
+      </header>
+
       <section className="certGrid" aria-label="file cards">
         {cards.map((card) => {
           const fileUrl = toWebPath(card.relativePath) || "";
@@ -340,14 +373,11 @@ export default function Certificates() {
               {selectedCard.fileType === "image" ? (
                 <img className="certModalMedia certModalImage" src={selectedCard.fileUrl} alt={selectedCard.title} />
               ) : selectedCard.isPdf ? (
-                <object
+                <iframe
                   className="certModalMedia certModalPdf"
-                  data={`${selectedCard.fileUrl}#page=1&view=FitH`}
-                  type="application/pdf"
-                  aria-label={`${selectedCard.title} full preview`}
-                >
-                  <div className="certPlaceholder">PDF preview unavailable</div>
-                </object>
+                  src={`${selectedCard.fileUrl}#page=1&view=FitH`}
+                  title={`${selectedCard.title} full preview`}
+                />
               ) : (
                 <div className="certPlaceholder certModalMedia certModalPdf">Preview unavailable</div>
               )}

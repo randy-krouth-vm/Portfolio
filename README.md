@@ -10,7 +10,8 @@ randy.krouth@gmail.com
 
 ## Professional Summary
 
-Senior-status Computer Science student and full-stack developer with strong experience in .NET, cross-platform application development, web development, cloud services, machine learning, cybersecurity, GPU accelerated computing, and secure software engineering. Skilled in scalable architectures, RESTful API development, CI/CD pipelines, ML model design, and programming high-performance systems. Strong foundation in parallel computing, memory optimizations, DevSecOps, and penetration testing. Experienced in freelance engineering and manufacturing/technical environments.
+Senior-status Computer Science student and 
+eloper with strong experience in .NET, cross-platform application development, web development, cloud services, machine learning, cybersecurity, GPU accelerated computing, and secure software engineering. Skilled in scalable architectures, RESTful API development, CI/CD pipelines, ML model design, and programming high-performance systems. Strong foundation in parallel computing, memory optimizations, DevSecOps, and penetration testing. Experienced in freelance engineering and manufacturing/technical environments.
 
 ---
 

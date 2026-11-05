@@ -1,0 +1,83 @@
+.carousel {
+    position: relative;
+}
+
+.carousel-controls {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-bottom: 0.9rem;
+}
+
+.carousel-btn {
+    display: grid;
+    place-items: center;
+    width: 2.35rem;
+    height: 2.35rem;
+    padding: 0;
+    border: 1px solid var(--line-strong);
+    border-radius: 50%;
+    background: #ffffff;
+    color: var(--ink);
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: border-color 0.25s var(--ease), color 0.25s var(--ease),
+        box-shadow 0.25s var(--ease), opacity 0.25s var(--ease);
+}
+
+.carousel-btn:hover:not(:disabled) {
+    border-color: var(--brand);
+    color: var(--brand-ink);
+    box-shadow: var(--shadow-sm);
+}
+
+.carousel-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+}
+
+.carousel-track {
+    display: flex;
+    align-items: flex-start;
+    cursor: grab;
+    gap: clamp(1.1rem, 2vw, 1.6rem);
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    padding: 0.75rem 0 1rem;
+    margin-top: -0.75rem;
+}
+
+.carousel-track::-webkit-scrollbar {
+    display: none;
+}
+
+.carousel-track.is-dragging {
+    cursor: grabbing;
+    scroll-behavior: auto;
+    scroll-snap-type: none;
+    user-select: none;
+}
+
+.carousel-track img {
+    -webkit-user-drag: none;
+    user-select: none;
+}
+
+.carousel-track:focus-visible {
+    outline: 2px solid var(--brand);
+    outline-offset: 4px;
+    border-radius: var(--radius-sm);
+}
+
+.carousel-track > * {
+    scroll-snap-align: start;
+}
+
+@media (max-width: 640px) {
+    .carousel-controls {
+        margin-bottom: 0.6rem;
+    }
+}
