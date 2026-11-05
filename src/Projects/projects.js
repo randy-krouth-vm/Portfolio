@@ -369,6 +369,39 @@ export const PROJECTS = [
       "Notebook Studio keeps handwritten notes, free drawing, tasks, planning, and OCR together in a single desk-like workspace. The focus is staying out of the way while writing, with study tools available when they are needed.",
     stack: ["C#", ".NET", "Blazor", "OCR", "Desktop UI"],
   },
+  {
+    slug: "agent-harness",
+    title: "Agent Harness",
+    image: "projects_web/Harness.png",
+    caption: "Local Agent Tooling",
+    description:
+      "A custom automation terminal harness that lets a local model inspect repositories, read files, write unit tests, and run shell commands through a bounded tool loop.",
+    snapshot:
+      "Several agent sessions run side by side, each with its own workspace, tool calls, and reasoning trace. The harness keeps every step visible, so long exploratory tasks can be followed, paused, or interrupted instead of running as a black box.",
+    stack: ["Python", "Local models", "Agent tooling", "PowerShell"],
+  },
+  {
+    slug: "llm-compression",
+    title: "LLM Compression",
+    image: "projects_web/LLMCompression.png",
+    caption: "Layer-Wise Model Compression",
+    description:
+      "A compression pipeline that fits compact MLP and polynomial replacements to every attention and feed-forward layer of a 37B-parameter model.",
+    snapshot:
+      "Input heads are looped until they match hash which is correct permutation. All 64 tested layers pass at 0.0010 mean MSE and 0.9995 mean cosine for the sorted latent space of the mlp, taking a 55 GB FP16 model down to roughly 5.36 GB plus token embeddings but at a cost of reduced throughput of best case 10 tok/s. This is an active research project we are exploring to maximize throughput and minimize disk/vram resource requirements.",
+    stack: ["Python", "PyTorch", "FP16", "Model compression"],
+  },
+  {
+    slug: "modal-gpu-runs",
+    title: "Modal GPU Runs",
+    image: "projects_web/Modal.png",
+    caption: "Cloud GPU Training & Compression",
+    description:
+      "Cloud GPU training runs for the AutoFit compression pipeline, scheduled across A100 and H100 instances on Modal.",
+    snapshot:
+      "Each run is split into per-tier functions so the same pipeline can target an A100, an A100 40GB, or an H100, with a CPU-side step that inspects the cached results. Keeping the work on managed GPUs makes long compression jobs repeatable instead of tied to one workstation.",
+    stack: ["Modal", "A100 / H100", "Python", "AutoFit"],
+  },
 ];
 
 export const getProject = (slug) =>
