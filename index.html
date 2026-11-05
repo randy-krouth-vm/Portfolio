@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
+    <!-- frame-ancestors and X-Frame-Options cannot be set from a meta tag, so anti-framing
+         lives in public/_headers for hosts that send headers. Keep both in sync. -->
     <meta http-equiv="Content-Security-Policy"
           content="default-src 'self';
                    script-src 'self';
@@ -9,18 +11,27 @@
                    img-src 'self' data:;
                    font-src 'self';
                    connect-src 'self';
-                   object-src 'self';
-                   frame-ancestors 'none';
-                   base-uri 'self';
+                   media-src 'self';
+                   object-src 'none';
+                   frame-src 'self';
+                   worker-src 'self';
+                   base-uri 'none';
                    form-action 'none';
                    require-trusted-types-for 'script';
-                   media-src 'self';
-                   ">
+                   " />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="referrer" content="no-referrer">
     <title>Randall Krouth's Portfolio</title>
-  <script type="module" crossorigin src="/Portfolio/assets/index-Csd40Yl4.js"></script>
-  <link rel="stylesheet" crossorigin href="/Portfolio/assets/index-DPM3VtxS.css">
+    <meta name="description" content="Randall Krouth — full-stack developer and ML engineer. Projects, architecture designs, certifications, and contact details." />
+    <meta name="theme-color" content="#0b7fc4" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Randall Krouth's Portfolio" />
+    <meta property="og:description" content="Projects, architecture designs, certifications, and contact details for Randall Krouth, full-stack developer and ML engineer." />
+    <meta property="og:url" content="https://randy-krouth-vm.github.io/Portfolio/" />
+    <link rel="icon" type="image/svg+xml" href="/Portfolio/favicon.svg" />
+    <link rel="icon" type="image/x-icon" href="/Portfolio/favicon.ico" sizes="32x32" />
+    <meta name="referrer" content="no-referrer">
+  <script type="module" crossorigin src="/Portfolio/assets/index-CIQOUXaa.js"></script>
+  <link rel="stylesheet" crossorigin href="/Portfolio/assets/index-C-3NEJIu.css">
 </head>
   <body>
     <div id="root"></div>
