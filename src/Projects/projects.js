@@ -287,9 +287,9 @@ export const PROJECTS = [
     image: "projects_web/Scheduler_Example_Poster.png",
     caption: "Scheduling & Workflow Automation",
     description:
-      "A scheduling tool for coordinating recurring tasks and triggering automated workflows.",
+      "A scheduling tool for coordinating tasks that must proceed immediately, while keeping long running jobs queued and re-tried as needed.",
     snapshot:
-      "The tool coordinates recurring tasks and triggers automated workflows. It is built around making timing, dependencies, and failures visible before they become surprises.",
+      "The tool coordinates tasks as a preemptive queue. It is built around ensuring tasks that must be completed immediately are invoked as required.",
       stack: [".NET", "Scheduling", "Automation", "Blazor", "Kestrel"],
   },
   {
